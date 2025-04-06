@@ -1,0 +1,5030 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "7fa2ba80-f67c-4d3d-afce-1b54db335488")
+	(paper "A4")
+	(lib_symbols
+		(symbol "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE"
+			(pin_numbers
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "0201WMF1002TEE"
+				(at 0.254 -19.558 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+				(at 1.524 -14.986 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C473048"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+				(at 0.762 -17.018 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Nvalue" "10k"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Package" "0201"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE_1_1"
+				(rectangle
+					(start -2.54 1.02)
+					(end 2.54 -1.02)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "Button Not-pressd:\n1, PLL Config B[2:0] = 0b011 : Ref Colck -> 25MHz\n2, Primarry Boot B[9:3] = 0b1001001 : eMMC Boot\n3, Backup Boot B[13:10] = 0b1011 : UART Boot\nButton Pressd:\n1, PLL Config B[2:0] = 0b011 : Ref Colck -> 25MHz\n2, Primarry Boot B[9:3] = 0b1001000 : SDCard FS Boot\n3, Backup Boot B[13:10] = 0b0001 : USB DFU Boot"
+		(exclude_from_sim no)
+		(at 15.748 176.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6a94cbd8-3721-464b-acfc-71b503f756e2")
+	)
+	(junction
+		(at 143.51 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1866e666-d395-4299-97f6-22f777bedd8e")
+	)
+	(junction
+		(at 185.42 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b840160-a085-4e5c-9e55-8d6cb91ff51a")
+	)
+	(junction
+		(at 251.46 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "21241a60-e7a4-40ff-a7f8-988d53c52770")
+	)
+	(junction
+		(at 185.42 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a9bff24-7626-44cc-9b8e-f129905536da")
+	)
+	(junction
+		(at 251.46 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2c193b01-d65f-4f39-9c73-07b3f6401628")
+	)
+	(junction
+		(at 154.94 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e471d4f-d82f-4398-893a-c23be3bd7434")
+	)
+	(junction
+		(at 208.28 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f7171c6-69c8-4956-aa86-6ea6e89ea76b")
+	)
+	(junction
+		(at 176.53 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3fbd1aae-5cda-42a0-b943-005342863f3d")
+	)
+	(junction
+		(at 133.35 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "460a3b1a-4f22-419f-9aa6-a917970235e1")
+	)
+	(junction
+		(at 240.03 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50f709d6-abb2-4f91-bcb4-3b3229184cf8")
+	)
+	(junction
+		(at 166.37 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57cfe5c9-72c7-4405-84d2-e58802a6db61")
+	)
+	(junction
+		(at 218.44 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58350ef0-77c9-4d45-893b-2336c97f31d7")
+	)
+	(junction
+		(at 208.28 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ffe663f-789c-468b-915c-315765ac22d7")
+	)
+	(junction
+		(at 240.03 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "64e7624c-06ca-492b-a093-e0cfb01ee910")
+	)
+	(junction
+		(at 133.35 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ab95ce8-842e-4caa-ad9d-2cbad7891953")
+	)
+	(junction
+		(at 228.6 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b6924cb-e8d9-4ed0-8073-6635dc55e082")
+	)
+	(junction
+		(at 154.94 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8419036a-835d-4952-87a1-92290a6a7b55")
+	)
+	(junction
+		(at 240.03 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "869caeb5-9420-4473-a91c-10ddfb87c730")
+	)
+	(junction
+		(at 196.85 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8f2e664c-237e-417c-8c4f-ba639c3ca1d3")
+	)
+	(junction
+		(at 100.33 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d9c2af7-a820-468a-9cf0-d589a053cfb8")
+	)
+	(junction
+		(at 176.53 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a0e7e80e-98b1-4a16-ba0f-38352bd113b6")
+	)
+	(junction
+		(at 166.37 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a69d4108-bf3a-44ee-8bb1-9d3404fa9ac8")
+	)
+	(junction
+		(at 143.51 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a9ec74a1-5753-4201-8b96-0284a6894ebb")
+	)
+	(junction
+		(at 196.85 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad3d0da6-64ad-4678-ace2-cdecc6e0bbf4")
+	)
+	(junction
+		(at 100.33 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "adace147-65be-4fb4-ad23-8daa06735b4d")
+	)
+	(junction
+		(at 111.76 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b5e32bb8-0725-4552-9a93-095f84744e8f")
+	)
+	(junction
+		(at 228.6 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be241d2f-8dc8-4da5-a9d9-2d5bb00aaf9a")
+	)
+	(junction
+		(at 123.19 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c0a54f77-9260-4794-8bf6-bd0653d7b0f2")
+	)
+	(junction
+		(at 111.76 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c135613a-1490-4cf8-bee1-bf5c1846fba2")
+	)
+	(junction
+		(at 228.6 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c20cfe5a-7af9-4932-9439-8bd04ebf1053")
+	)
+	(junction
+		(at 218.44 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d83dab75-bc06-4d08-95e1-862a37bf4a44")
+	)
+	(junction
+		(at 251.46 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "def4ca29-d8bf-4b3e-a066-62526ffa83fd")
+	)
+	(junction
+		(at 261.62 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e78c606e-aa2c-4396-b713-04d8745cd11d")
+	)
+	(junction
+		(at 123.19 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fe235477-0832-4a06-861d-a546e1ee12f7")
+	)
+	(wire
+		(pts
+			(xy 228.6 53.34) (xy 228.6 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0054a94f-ed6c-4bad-8cc1-9690be7a2740")
+	)
+	(wire
+		(pts
+			(xy 228.6 43.18) (xy 240.03 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "013bc1c1-7de0-4781-be22-0c9a23076cde")
+	)
+	(wire
+		(pts
+			(xy 196.85 53.34) (xy 196.85 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "052f4aab-d9ae-48e4-87cf-1ca80e3cf85d")
+	)
+	(wire
+		(pts
+			(xy 208.28 43.18) (xy 218.44 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06cccfb7-bb78-4d5f-bd35-926962f0ce2f")
+	)
+	(wire
+		(pts
+			(xy 133.35 130.81) (xy 143.51 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a597dbe-89c7-4e83-8bf0-65e3fe1260c3")
+	)
+	(wire
+		(pts
+			(xy 100.33 43.18) (xy 111.76 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d6f4e35-4657-4fb7-b1a0-211a44b59278")
+	)
+	(wire
+		(pts
+			(xy 87.63 60.96) (xy 251.46 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f102de9-f365-4d30-b27e-e9f9cd0a4e2b")
+	)
+	(wire
+		(pts
+			(xy 261.62 53.34) (xy 261.62 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11be8cf2-21f3-4c98-9ab7-73dac83ea7ba")
+	)
+	(wire
+		(pts
+			(xy 154.94 53.34) (xy 154.94 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1351dfce-ad24-4a09-9e7c-53565151f35c")
+	)
+	(wire
+		(pts
+			(xy 87.63 57.15) (xy 261.62 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aa8f79f-1963-4689-a017-173707a63f10")
+	)
+	(wire
+		(pts
+			(xy 71.12 68.58) (xy 228.6 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b409f7e-1f2a-482f-969d-9444eca4b5f2")
+	)
+	(wire
+		(pts
+			(xy 111.76 43.18) (xy 123.19 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26e77fa5-d4c9-4881-81a3-f216b2e3f8ff")
+	)
+	(wire
+		(pts
+			(xy 143.51 130.81) (xy 154.94 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28d92fe9-5fd8-4122-86fc-88f674a048e2")
+	)
+	(wire
+		(pts
+			(xy 185.42 53.34) (xy 185.42 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a43eabd-ff16-4e80-907b-0fd2d4c1e8be")
+	)
+	(wire
+		(pts
+			(xy 111.76 130.81) (xy 123.19 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e01ee77-a235-4d8e-9831-1e82dd80d015")
+	)
+	(wire
+		(pts
+			(xy 176.53 43.18) (xy 185.42 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a347287-e206-48d7-9c8a-74edfe14ea40")
+	)
+	(wire
+		(pts
+			(xy 251.46 130.81) (xy 261.62 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b2a5f0f-d1c0-4d05-b3fd-156ab328556f")
+	)
+	(wire
+		(pts
+			(xy 87.63 64.77) (xy 240.03 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c81bf4d-16d9-409a-a6ea-2b39d89282e8")
+	)
+	(wire
+		(pts
+			(xy 196.85 130.81) (xy 208.28 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40b0f761-a072-4cb5-ac55-7d970e177c45")
+	)
+	(wire
+		(pts
+			(xy 143.51 53.34) (xy 143.51 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48b980aa-7607-462c-84cc-71388566285a")
+	)
+	(wire
+		(pts
+			(xy 123.19 43.18) (xy 133.35 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dd89c77-6259-4165-8edf-d5e15a675136")
+	)
+	(wire
+		(pts
+			(xy 166.37 53.34) (xy 166.37 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5120aa98-3e9a-42a0-8197-7b883d61aecd")
+	)
+	(wire
+		(pts
+			(xy 240.03 130.81) (xy 251.46 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5265f21c-1d38-4b43-a8b3-31d16fef8918")
+	)
+	(wire
+		(pts
+			(xy 208.28 53.34) (xy 208.28 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ec591c0-4cb0-441e-a03f-adafa9e5316b")
+	)
+	(wire
+		(pts
+			(xy 92.71 43.18) (xy 100.33 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66a63a99-af2c-475b-9983-e11899ea351b")
+	)
+	(wire
+		(pts
+			(xy 176.53 130.81) (xy 185.42 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e2f2307-a7b5-4f4e-8df4-2be1bebd17c4")
+	)
+	(wire
+		(pts
+			(xy 251.46 43.18) (xy 261.62 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7546c68f-ca53-4e0e-a23c-b86f0d2aca23")
+	)
+	(wire
+		(pts
+			(xy 240.03 53.34) (xy 240.03 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77b0c8b1-8cd4-4d1f-bd33-ee71590364ac")
+	)
+	(wire
+		(pts
+			(xy 176.53 53.34) (xy 176.53 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a662780-e5cb-4ac4-9856-1eff4f510b80")
+	)
+	(wire
+		(pts
+			(xy 185.42 43.18) (xy 196.85 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c31ae05-91f5-43f2-a3f4-602b193be05d")
+	)
+	(wire
+		(pts
+			(xy 218.44 43.18) (xy 228.6 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "804cc376-0d67-4808-b903-91988f839fe8")
+	)
+	(wire
+		(pts
+			(xy 208.28 130.81) (xy 218.44 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c1025f0-ffa4-463a-bb8e-c852a6d69a98")
+	)
+	(wire
+		(pts
+			(xy 111.76 53.34) (xy 111.76 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c9a260f-982f-44f9-85f1-7b9711c20c61")
+	)
+	(wire
+		(pts
+			(xy 228.6 130.81) (xy 240.03 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96ec5b9a-ac3c-4161-baf7-af9571052ad0")
+	)
+	(wire
+		(pts
+			(xy 261.62 57.15) (xy 261.62 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a03cf8a1-6ef9-4cd9-8c97-8d6b41f93c13")
+	)
+	(wire
+		(pts
+			(xy 218.44 53.34) (xy 218.44 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2cc6ff7-1a34-4070-846e-39166d29d434")
+	)
+	(wire
+		(pts
+			(xy 251.46 53.34) (xy 251.46 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a88cd67f-6c0f-4069-81fa-4b63d53a5328")
+	)
+	(wire
+		(pts
+			(xy 100.33 130.81) (xy 111.76 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab0b570d-8db6-4a61-8a13-fabaedcfba64")
+	)
+	(wire
+		(pts
+			(xy 154.94 130.81) (xy 166.37 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad83e3fa-6944-4b1d-b1ff-0f14d539f12e")
+	)
+	(wire
+		(pts
+			(xy 251.46 60.96) (xy 251.46 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c286f300-96f4-4233-b52b-a2f7e14f4de2")
+	)
+	(wire
+		(pts
+			(xy 123.19 53.34) (xy 123.19 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc4b5bcf-f3fb-41da-9e4c-7db3847a3abc")
+	)
+	(wire
+		(pts
+			(xy 154.94 43.18) (xy 166.37 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce9e3baf-b1af-400e-ace9-de03b42ed8a9")
+	)
+	(wire
+		(pts
+			(xy 100.33 53.34) (xy 100.33 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3ca6ce0-973c-468c-8f5b-a573ac2a9639")
+	)
+	(wire
+		(pts
+			(xy 166.37 43.18) (xy 176.53 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5ca51ee-5ecd-493b-87a3-4debee675052")
+	)
+	(wire
+		(pts
+			(xy 196.85 43.18) (xy 208.28 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8c7f755-2c31-4cce-938c-5f7b4a82fa38")
+	)
+	(wire
+		(pts
+			(xy 143.51 43.18) (xy 154.94 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9705e2f-7d4a-486a-adc4-1c0062f02570")
+	)
+	(wire
+		(pts
+			(xy 240.03 43.18) (xy 251.46 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e11f0d10-1ce9-4873-a40b-3ef5813f4c37")
+	)
+	(wire
+		(pts
+			(xy 133.35 53.34) (xy 133.35 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e29407ab-f9fa-4caa-896d-c1078e443e23")
+	)
+	(wire
+		(pts
+			(xy 123.19 130.81) (xy 133.35 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e468cb86-34e4-4a71-b05d-bf39f7c4719b")
+	)
+	(wire
+		(pts
+			(xy 228.6 68.58) (xy 228.6 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e617fb95-68a5-4a3b-b432-d488c63a84db")
+	)
+	(wire
+		(pts
+			(xy 240.03 64.77) (xy 240.03 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef6d103b-d599-42f3-a47a-98d1a0d30040")
+	)
+	(wire
+		(pts
+			(xy 218.44 130.81) (xy 228.6 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3c764e5-0393-4480-9e4a-d67de740e53b")
+	)
+	(wire
+		(pts
+			(xy 166.37 130.81) (xy 176.53 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7a1a198-e6dd-4daa-b17f-9cb1440e8150")
+	)
+	(wire
+		(pts
+			(xy 133.35 43.18) (xy 143.51 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f97e0f35-7d9f-439d-9a7e-6ea6044be8bd")
+	)
+	(wire
+		(pts
+			(xy 185.42 130.81) (xy 196.85 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbbc6ed0-823b-46d5-aa71-94ee921b1fa3")
+	)
+	(image
+		(at 48.26 190.5)
+		(scale 1.17684)
+		(uuid "afccbbeb-1fce-4022-bc8c-ffd1889f84f9")
+		(data "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"
+			"sv8DgO3KyfpVyjcAAAAASUVORK5CYII="
+		)
+	)
+	(global_label "BOOTMODE13"
+		(shape output)
+		(at 87.63 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "00295087-2d2e-4466-8340-ca8f20b7d838")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.1263 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE15"
+		(shape output)
+		(at 87.63 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0973fb59-93d4-4d65-b5c6-47d7d57f6202")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.1263 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE9"
+		(shape output)
+		(at 87.63 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "194a6545-2e6b-4dea-a112-15efecc671cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.3358 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE7"
+		(shape output)
+		(at 87.63 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3357c08f-7f41-47b5-9884-7d7e4e01a167")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.3358 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE6"
+		(shape output)
+		(at 87.63 80.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3c07fcfd-3438-4237-938d-208b14493feb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.3358 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE11"
+		(shape output)
+		(at 87.63 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "422b62f0-6e0a-4f23-8f2c-dff4391d76b0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.1263 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE1"
+		(shape output)
+		(at 87.63 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "52d63082-9f28-49b0-a8d0-8802d370c5a4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.3358 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE3"
+		(shape output)
+		(at 71.12 68.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "79fa1142-d672-4149-b6a2-8e166535b8ef")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 56.8258 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE10"
+		(shape output)
+		(at 87.63 95.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7a7a8ae1-1a47-41c2-bf13-e16f9d812fb0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.1263 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE12"
+		(shape output)
+		(at 87.63 102.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "886a63f1-d80d-4974-88e0-f55520c4cca2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.1263 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE5"
+		(shape output)
+		(at 87.63 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8d698fbc-b723-4521-b29f-cca846f735d8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.3358 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE4"
+		(shape output)
+		(at 87.63 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b333a00c-0cdf-4cb5-aafa-f0063a2abb77")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.3358 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE8"
+		(shape output)
+		(at 87.63 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b4edb439-75c8-4740-8fc7-3bf9a6f84b5c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.3358 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE14"
+		(shape output)
+		(at 87.63 110.49 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c35d4f61-e181-46d4-9d5c-79c41955c527")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.1263 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VDD_1V8"
+		(shape input)
+		(at 92.71 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d81d3232-3f20-43c6-ab4f-ba289502fb49")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.621 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE0"
+		(shape output)
+		(at 87.63 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e62b2aef-2fe5-4f04-99bc-3cce72d87ae2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.3358 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOTMODE2"
+		(shape output)
+		(at 87.63 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e6c7c206-c36d-4104-8ea6-0d934ce73863")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.3358 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 176.53 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "01e2a234-09ac-408f-917f-280bd6ca2f70")
+		(property "Reference" "R25"
+			(at 179.07 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 196.088 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 184.15 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 186.69 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 191.516 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 189.23 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 193.548 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 179.07 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 181.61 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d23b5a92-893a-4d8f-9dc7-e1d33ad26fc8")
+		)
+		(pin "2"
+			(uuid "a2e23a15-51e4-4f54-ab42-58e80e248050")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 240.03 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "193568c7-f08b-4395-99e9-17c4387c1eef")
+		(property "Reference" "R31"
+			(at 242.57 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 259.588 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 247.65 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 250.19 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 255.016 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 252.73 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 257.048 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 242.57 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 245.11 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "694fd1a8-b719-4ac7-ad7c-7851ce5ec4fb")
+		)
+		(pin "2"
+			(uuid "25b559f9-9229-48f2-a92b-5b9e09fcb759")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 166.37 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1baeb0d1-32c9-4a99-b793-444af2f51267")
+		(property "Reference" "R40"
+			(at 168.91 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 185.928 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 173.99 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 176.53 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 181.356 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 179.07 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 183.388 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 168.91 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 171.45 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "69fe999f-c528-4bbd-be20-ff5ace4dfa1a")
+		)
+		(pin "2"
+			(uuid "12c04266-a3a0-4341-af6a-ec68ae0f2bd0")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 100.33 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "1ee1b351-7b35-4640-b599-eb6bded4658d")
+		(property "Reference" "R18"
+			(at 102.87 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 119.888 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 107.95 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 110.49 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 115.316 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 113.03 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 117.348 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 102.87 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 105.41 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "525c3826-cf53-4ae5-9579-f8e5bfbc50ad")
+		)
+		(pin "2"
+			(uuid "7593c6b4-ad17-46b9-9bfd-77cfa589faa2")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 123.19 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "23dc74bd-04e9-4120-8c30-8bd70bc48682")
+		(property "Reference" "R20"
+			(at 125.73 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 142.748 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 130.81 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 133.35 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 138.176 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 135.89 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 140.208 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 125.73 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 128.27 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "15ad5519-34cc-4382-92a6-5c04f7b7eef0")
+		)
+		(pin "2"
+			(uuid "15f63d73-2252-4405-a033-5faba66da7a9")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 261.62 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "24617721-1d7b-458e-b7c5-3931f1ef0767")
+		(property "Reference" "R49"
+			(at 264.16 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 281.178 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 271.78 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 276.606 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 274.32 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 278.638 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 264.16 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 266.7 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "43cd4254-ad05-4ac2-9421-b34c9aa0f3cd")
+		)
+		(pin "2"
+			(uuid "7f48f168-dcd0-47b3-9012-20ac146233cc")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 154.94 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e9d7e9c-823f-431b-bb2d-c6265af8fa06")
+		(property "Reference" "R39"
+			(at 157.48 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 174.498 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 162.56 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 165.1 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 169.926 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 167.64 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 171.958 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 157.48 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 160.02 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5c999556-da32-4f36-9c33-e4d779f21978")
+		)
+		(pin "2"
+			(uuid "adf39d18-8ac1-4f30-8dfc-3f4f5e11f958")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 143.51 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2fc02434-e791-4be6-b059-89738b8b6e75")
+		(property "Reference" "R38"
+			(at 146.05 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 163.068 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 151.13 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 153.67 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 158.496 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 156.21 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 160.528 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 146.05 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 148.59 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "954d4540-2a81-409f-b310-2d172aae7261")
+		)
+		(pin "2"
+			(uuid "7d919a79-72e1-4d07-8fe4-66847f997a59")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 240.03 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3539f889-fee9-4723-9ede-3f24aed350c8")
+		(property "Reference" "R47"
+			(at 242.57 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 259.588 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 247.65 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 250.19 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 255.016 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 252.73 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 257.048 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 242.57 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 245.11 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "49c8cbf0-f743-4651-b723-d2b05dbd9803")
+		)
+		(pin "2"
+			(uuid "67ebfd9c-f852-4315-a7f1-358ae0c53fa2")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 123.19 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "40d3e2c7-c1fe-4c2f-b5db-9e16a21c874e")
+		(property "Reference" "R36"
+			(at 125.73 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 142.748 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 130.81 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 133.35 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 138.176 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 135.89 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 140.208 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 125.73 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 128.27 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "efe585d0-a6f1-4305-afc3-b7e712dbc987")
+		)
+		(pin "2"
+			(uuid "38564923-f0f1-425e-89c7-ea081cbc1584")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 133.35 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "44b8333d-2759-48b2-b5c9-84cc741be7cb")
+		(property "Reference" "R21"
+			(at 135.89 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 152.908 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 140.97 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 143.51 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 148.336 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 146.05 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 150.368 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 135.89 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 138.43 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "48cb241a-2fd2-4fa7-9700-46adac4dc8c9")
+		)
+		(pin "2"
+			(uuid "966e45c3-47bc-4ee8-a358-bd3f0028ad23")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 251.46 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4b55c5c4-d588-4b43-9da2-d8746b68fd8a")
+		(property "Reference" "R32"
+			(at 254 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 271.018 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 259.08 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 261.62 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 266.446 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 264.16 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 268.478 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 254 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 256.54 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bfaac7ed-e681-4b0c-8083-9267113e462b")
+		)
+		(pin "2"
+			(uuid "47af0690-3106-4f13-b228-833581af73a5")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 185.42 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "53f75681-746a-4dac-8a36-e4f620227a19")
+		(property "Reference" "R42"
+			(at 187.96 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 204.978 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 193.04 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 195.58 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 200.406 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 198.12 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 202.438 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 187.96 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 190.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00ebbd01-5a8b-4461-b69e-6fd81292c6a3")
+		)
+		(pin "2"
+			(uuid "3f62ad08-e8bb-40d0-958b-fc04e094a11d")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 228.6 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "63f691c3-b48b-4043-97ac-9402a5f68907")
+		(property "Reference" "R46"
+			(at 231.14 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 248.158 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 236.22 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 238.76 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 243.586 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 241.3 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 245.618 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 231.14 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 233.68 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5256ea6f-9d03-4879-88da-6fa4ea077680")
+		)
+		(pin "2"
+			(uuid "721594e0-e90a-4973-96d5-53fb8e11502c")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 100.33 130.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "66e96365-71b5-46e8-839b-ece87b634689")
+		(property "Reference" "#PWR017"
+			(at 100.33 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 100.33 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 100.33 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 100.33 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "64fa24c0-75c1-49cd-8d10-8083e637b4d7")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 208.28 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6d5da9d0-2a7a-4c7c-acce-f58658392de8")
+		(property "Reference" "R44"
+			(at 210.82 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 227.838 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 215.9 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 218.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 223.266 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 220.98 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 225.298 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 210.82 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 213.36 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2caae2fe-21c2-43ab-8b7d-5d4a375d0e38")
+		)
+		(pin "2"
+			(uuid "ab591f17-4979-4eb2-9b6a-f808b878e0d8")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 196.85 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7020e78d-2409-4353-a348-4f7c94500283")
+		(property "Reference" "R43"
+			(at 199.39 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 216.408 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 204.47 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 207.01 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 211.836 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 209.55 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 213.868 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 199.39 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 201.93 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b2fd6953-3f49-481d-8942-2f4bd73202e3")
+		)
+		(pin "2"
+			(uuid "979a8a26-7e67-4438-8f2f-282828840c55")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 218.44 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76b6fec0-e6c6-4787-b309-44c802d925d0")
+		(property "Reference" "R45"
+			(at 220.98 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 237.998 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 228.6 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 233.426 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 231.14 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 235.458 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 220.98 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 223.52 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "82e2b450-052e-49d7-8a54-4b66271f3603")
+		)
+		(pin "2"
+			(uuid "591436e5-bdf1-4692-adf3-f24535201d0b")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 166.37 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "91dc502b-0438-48bb-b9f5-bc236f5d0a1e")
+		(property "Reference" "R24"
+			(at 168.91 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 185.928 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 173.99 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 176.53 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 181.356 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 179.07 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 183.388 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 168.91 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 171.45 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "45fe8b92-3598-47ad-b5eb-eefd1e76c674")
+		)
+		(pin "2"
+			(uuid "df563571-b41e-4086-93a2-546c2581b57a")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 133.35 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "96b3c11b-c5af-4cad-92ca-70e1e3f37d37")
+		(property "Reference" "R37"
+			(at 135.89 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 152.908 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 140.97 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 143.51 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 148.336 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 146.05 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 150.368 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 135.89 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9060994-e18c-4aed-a836-1f98b357b5a3")
+		)
+		(pin "2"
+			(uuid "091f858d-87c6-4771-8c15-24f9d5fb3ff9")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 111.76 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "98cff6b1-5c45-47b4-930c-d11dcfe50451")
+		(property "Reference" "R19"
+			(at 114.3 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 131.318 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 119.38 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 121.92 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 126.746 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 124.46 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 128.778 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 114.3 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 116.84 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "76cb7112-8861-4bbf-b151-d6aac7b15fa2")
+		)
+		(pin "2"
+			(uuid "050ee390-508d-4437-9e29-aac0e42afc1d")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 196.85 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9d594d0a-9bba-4a40-810a-8a1174199b7c")
+		(property "Reference" "R27"
+			(at 199.39 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 216.408 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 204.47 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 207.01 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 211.836 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 209.55 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 213.868 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 199.39 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 201.93 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0e0dac59-57c9-4d2b-a8b9-33a3d2691c51")
+		)
+		(pin "2"
+			(uuid "46e80adf-71a4-4c38-bb1e-dc89e0db1d7e")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 176.53 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1281ebe-0cd0-403e-a950-e4c0b25c6682")
+		(property "Reference" "R41"
+			(at 179.07 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 196.088 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 184.15 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 186.69 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 191.516 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 189.23 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 193.548 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 179.07 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 181.61 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8fe3af64-091c-40e4-9247-884e98d9c8b2")
+		)
+		(pin "2"
+			(uuid "4d82d1b6-f20f-4d24-b1b5-611996eaaabb")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 185.42 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8f549fd-6041-4cc8-8e04-b2b976f7da0e")
+		(property "Reference" "R26"
+			(at 187.96 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 204.978 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 193.04 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 195.58 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 200.406 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 198.12 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 202.438 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 187.96 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 190.5 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "58faa3aa-152e-40bc-a0cd-5d32f5fb74b3")
+		)
+		(pin "2"
+			(uuid "95af45bb-8037-4242-9e21-3a6eb128b0ac")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 208.28 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b1fb0068-bc4e-4c90-8b70-d25e99d19c95")
+		(property "Reference" "R28"
+			(at 210.82 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 227.838 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 215.9 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 218.44 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 223.266 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 220.98 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 225.298 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 210.82 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 213.36 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0dc62f7a-6e02-4996-9936-116b73408bd8")
+		)
+		(pin "2"
+			(uuid "8acfb81c-0af2-4b64-af1f-b5f8a13968f7")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 111.76 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b5bc6adb-512a-49e6-b396-353974fc526e")
+		(property "Reference" "R35"
+			(at 114.3 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 131.318 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 119.38 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 121.92 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 126.746 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 124.46 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 128.778 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 114.3 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 116.84 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "87625eda-e6bc-4810-9fb1-4160753de10a")
+		)
+		(pin "2"
+			(uuid "d34d1284-04fb-4bd6-8ca2-7f34406c0910")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 154.94 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c097f97b-b779-45a5-a432-fc017283befb")
+		(property "Reference" "R23"
+			(at 157.48 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 174.498 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 162.56 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 165.1 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 169.926 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 167.64 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 171.958 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 157.48 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 160.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9f832e8d-8529-41a0-8734-007e0b5130e8")
+		)
+		(pin "2"
+			(uuid "9de030a6-41b1-45af-9e9e-f15702b7a4fa")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 218.44 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c32c2628-d993-4fd4-8787-f3bf9b44e03e")
+		(property "Reference" "R29"
+			(at 220.98 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 237.998 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 226.06 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 228.6 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 233.426 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 231.14 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 235.458 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 220.98 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 223.52 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "59e51eb1-b2b7-426a-bbbb-ca162882013d")
+		)
+		(pin "2"
+			(uuid "7b1841f9-6a59-4382-b738-52c45aaa794c")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 100.33 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c687d861-a096-4a81-90e0-c312d7c0c24d")
+		(property "Reference" "R34"
+			(at 102.87 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 119.888 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 107.95 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 110.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 115.316 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 113.03 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 117.348 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 102.87 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 105.41 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ad3cc6c7-7dae-45b2-9276-e3ecffacf294")
+		)
+		(pin "2"
+			(uuid "cc9b60ba-c77b-4414-87cd-e3ed9d8a5190")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 251.46 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "e76e7db8-5ba0-4519-b0c2-761ef7de9eea")
+		(property "Reference" "R48"
+			(at 254 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 271.018 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 259.08 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 261.62 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 266.446 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 264.16 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 268.478 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 254 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 256.54 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6656ff4e-5327-4192-94d4-076148c7cd27")
+		)
+		(pin "2"
+			(uuid "3ca001d9-b660-4038-8072-360205e49cdc")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 261.62 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f88b030d-a30b-42be-9906-e7c8b3fbd40e")
+		(property "Reference" "R33"
+			(at 264.16 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 281.178 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 269.24 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 271.78 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 276.606 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 274.32 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 278.638 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 264.16 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 266.7 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c6e7f29b-fb0f-4291-8bf0-8383b2e29ce8")
+		)
+		(pin "2"
+			(uuid "ba0a8ef0-51c8-4604-bd51-648234694b73")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 228.6 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fab35ce3-0413-428c-9136-6583fb6d9afb")
+		(property "Reference" "R30"
+			(at 231.14 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 248.158 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 236.22 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 238.76 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 243.586 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 241.3 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 245.618 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 231.14 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 233.68 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "62088382-0bcd-4476-8bdf-ae69aa59129f")
+		)
+		(pin "2"
+			(uuid "154d158f-26e7-4068-bc75-6bdb60ebd075")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 143.51 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fc2995f5-64e0-48db-bb2e-cc98abd6b4ef")
+		(property "Reference" "R22"
+			(at 146.05 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 163.068 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 151.13 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 153.67 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 158.496 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 156.21 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 160.528 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 146.05 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 148.59 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb900ff9-92cc-4ea3-afb5-2d8f56d18983")
+		)
+		(pin "2"
+			(uuid "cee98f2e-41a9-401c-847d-9f08742f0c43")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/58ba7192-9bd2-4640-8041-15a69dce05ca"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
