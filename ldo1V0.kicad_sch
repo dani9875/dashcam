@@ -1,0 +1,2463 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "0dcca609-5c7d-43fd-925e-9f895348d65d")
+	(paper "A5")
+	(lib_symbols
+		(symbol "pepy_sym_lib:[CAP_SMD_0201_0603Metric]Samsung Electro-Mechanics CL03A105MQ3CSNH"
+			(pin_numbers
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CL03A105MQ3CSNH"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "6.3V 1uF X5R ±20% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+				(at 0.762 -14.732 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C53067"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Samsung Electro-Mechanics"
+				(at 0.254 -16.764 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Nvalue" "1uF"
+				(at 0 -3.048 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Package" "0201"
+				(at 0.254 -18.796 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "[CAP_SMD_0201_0603Metric]Samsung Electro-Mechanics CL03A105MQ3CSNH_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 2.03) (xy -0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "[CAP_SMD_0201_0603Metric]Samsung Electro-Mechanics CL03A105MQ3CSNH_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "pepy_sym_lib:[FERRITE_BEAD]Murata Electronics BLM18PG121SN1D"
+			(pin_numbers
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FB"
+				(at 0 4.572 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "BLM18BD252SN1D"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "pepy_sym_lib:[FERRITE_BEAD_0603_1608Metric]"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/product-detail/Ferrite-Beads_Murata-Electronics-BLM18PG121SN1D_C14709.html?s_z=n_BLM18PG121SN1D"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "50mΩ ±25% 120Ω@100MHz 0603 Ferrite Beads ROHS"
+				(at 0 -14.732 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C14709"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Murata Electronics"
+				(at -0.254 -16.764 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Package" "0603"
+				(at 0 -3.048 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Nvalue" "120Ω@100MHz"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "[FERRITE_BEAD]Murata Electronics BLM18PG121SN1D_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.7117 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy 0 1.27) (xy 1.27 1.27) (xy 0 -1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.6699 0.0001)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "[FERRITE_BEAD]Murata Electronics BLM18PG121SN1D_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 0.762)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 0.762)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "pepy_sym_lib:[LDO]Texas Instruments TLV75801PDBVR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 6.604 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TLV75801PDBVR"
+				(at 0 -6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "pepy_sym_lib:[LDO]Texas Instruments TLV75801PDBVR"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Texas-Instruments-TLV75801PDBVR_C2877852.html?s_z=n_TLV75801PDBVR"
+				(at 1.016 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "500mA Adjustable 550mV~5.5V Positive electrode 6V SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
+				(at 0.254 -18.034 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C2877852"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "[LDO]Texas Instruments TLV75801PDBVR_1_1"
+				(rectangle
+					(start -6.35 5.08)
+					(end 6.35 -5.08)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at -8.89 2.54 0)
+					(length 2.54)
+					(name "IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -8.89 0 0)
+					(length 2.54)
+					(name "EN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -8.89 -2.54 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 8.89 2.54 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 8.89 -2.54 180)
+					(length 2.54)
+					(name "FB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE"
+			(pin_numbers
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "0201WMF1002TEE"
+				(at 0.254 -19.558 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+				(at 1.524 -14.986 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C473048"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+				(at 0.762 -17.018 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Nvalue" "10k"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Package" "0201"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE_1_1"
+				(rectangle
+					(start -2.54 1.02)
+					(end 2.54 -1.02)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "pepy_sym_lib:[RES_SMD_0402_1005Metric]YAGEO RC0402FR-07120KL"
+			(pin_numbers
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RC0402FR-07120KL"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "pepy_sym_lib:[RES_SMD_0402_1005Metric]"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-07120KL_C93945.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120kΩ 0402 Chip Resistor - Surface Mount ROHS"
+				(at -0.508 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C93945"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Nvalue" "120k"
+				(at 0 -2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "YAGEO"
+				(at -1.016 -17.526 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Package" "0402"
+				(at -0.254 -19.558 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "[RES_SMD_0402_1005Metric]YAGEO RC0402FR-07120KL_1_1"
+				(rectangle
+					(start -2.54 1.02)
+					(end 2.54 -1.02)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "pepy_sym_lib:[RES_SMD_0805_2012Metric]UNI-ROYAL(Uniroyal Elec) 0805W8F1003T5E"
+			(pin_numbers
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "0805W8F1003T5E"
+				(at 0 2.794 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "pepy_sym_lib:[RES_SMD_0805_2012Metric]"
+				(at 0.254 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1003T5E_C149504.html"
+				(at 0.254 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 100kΩ 0805 Chip Resistor - Surface Mount ROHS"
+				(at 0 -12.446 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C149504"
+				(at 0.254 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Nvalue" "100k"
+				(at 0.254 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+				(at 0.508 -14.986 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Package" "0805"
+				(at 0.508 -17.018 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "[RES_SMD_0805_2012Metric]UNI-ROYAL(Uniroyal Elec) 0805W8F1003T5E_1_1"
+				(rectangle
+					(start -2.54 1.02)
+					(end 2.54 -1.02)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "pepy_sym_lib:[TEST_POINT]TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "pepy_sym_lib:[TEST_POINT]TestPoint_Pad_D1.0mm"
+				(at -0.254 -10.414 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 2.032 -0.254 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "General test point"
+				(at 0.254 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "[TEST_POINT]TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "[TEST_POINT]TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "0.3A\n"
+		(exclude_from_sim no)
+		(at 117.348 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "57ad8a1b-8fa0-4de0-807f-4fafce32e6e2")
+	)
+	(text "Vfb=550mV\n"
+		(exclude_from_sim no)
+		(at 96.266 46.482 0)
+		(effects
+			(font
+				(size 0.508 0.508)
+			)
+		)
+		(uuid "dc9540bc-e40b-413d-a28d-9cc085ac03f0")
+	)
+	(junction
+		(at 63.5 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22dfb1ce-68ec-45a5-a980-5dd1fa9f6ac3")
+	)
+	(junction
+		(at 107.95 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d61964f-b6a6-4cc8-af9c-47fd4cf3d380")
+	)
+	(junction
+		(at 121.92 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74d42b1c-8cb8-4ebe-9952-2f38e909ecae")
+	)
+	(junction
+		(at 107.95 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "81b834a1-098e-4827-a743-a9a93b0c6e46")
+	)
+	(junction
+		(at 49.53 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d26605bf-3e3c-48b5-b538-52222f700a2c")
+	)
+	(wire
+		(pts
+			(xy 49.53 33.02) (xy 49.53 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "262c8604-b268-4d98-beab-05a18a3348fa")
+	)
+	(wire
+		(pts
+			(xy 99.06 46.99) (xy 99.06 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "381085c8-3717-4c70-b6e4-a0259e37fbf6")
+	)
+	(wire
+		(pts
+			(xy 121.92 41.91) (xy 134.62 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b33b5c2-5b46-43ef-9aa6-b76faeeec265")
+	)
+	(wire
+		(pts
+			(xy 76.2 33.02) (xy 76.2 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dbf6f4b-2aa9-4dbf-b3f0-d9fe8af5f7c7")
+	)
+	(wire
+		(pts
+			(xy 59.69 44.45) (xy 76.2 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67a6708f-00f0-48fc-9078-4845e746b1a7")
+	)
+	(wire
+		(pts
+			(xy 99.06 52.07) (xy 107.95 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72ed17ee-03a6-4bdd-b53b-85d788335348")
+	)
+	(wire
+		(pts
+			(xy 63.5 33.02) (xy 76.2 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ae958ee-de8b-4519-843c-585ead2b54d6")
+	)
+	(wire
+		(pts
+			(xy 107.95 41.91) (xy 121.92 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97188556-e026-42c1-a3ea-453062ac7ed3")
+	)
+	(wire
+		(pts
+			(xy 93.98 46.99) (xy 99.06 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c219777b-ff6c-413b-899b-a7d310d4a9e2")
+	)
+	(wire
+		(pts
+			(xy 48.26 33.02) (xy 49.53 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2f74e37-f892-491e-9747-cb97c87cc25a")
+	)
+	(wire
+		(pts
+			(xy 58.42 33.02) (xy 63.5 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d65b69bd-37c5-4783-a51c-0c3290ef3c09")
+	)
+	(wire
+		(pts
+			(xy 49.53 33.02) (xy 53.34 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e802dc60-3c50-409c-81a4-881b28a1064f")
+	)
+	(wire
+		(pts
+			(xy 93.98 41.91) (xy 107.95 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f57c683a-5325-47b5-a2a4-4200491d2216")
+	)
+	(image
+		(at 85.09 60.96)
+		(uuid "3355467a-2f56-42ae-9e7e-8178d3991818")
+		(data "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"
+			"/B9LzDFEHxKenwAAAABJRU5ErkJggg=="
+		)
+	)
+	(global_label "VDD_1V8"
+		(shape input)
+		(at 48.26 33.02 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "32570d78-e03e-4ce1-95b3-8afec7de6e64")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 37.171 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VDD_1V0"
+		(shape output)
+		(at 134.62 41.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "74559374-13f9-46b8-828f-0f126e41ea9d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 145.709 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 121.92 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "23098f5b-083d-4f5c-aa17-bf04acda732b")
+		(property "Reference" "#PWR025"
+			(at 121.92 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 121.92 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 121.92 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65b46e44-f9ee-4388-a2ce-c1077bbe6716")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[LDO]Texas Instruments TLV75801PDBVR")
+		(at 85.09 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28a95dcc-ca28-4dd4-9863-6bbd1500a5b9")
+		(property "Reference" "U5"
+			(at 85.09 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TLV75801PDBVR"
+			(at 85.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[LDO]Texas Instruments TLV75801PDBVR"
+			(at 85.09 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Texas-Instruments-TLV75801PDBVR_C2877852.html?s_z=n_TLV75801PDBVR"
+			(at 86.106 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "500mA Adjustable 550mV~5.5V Positive electrode 6V SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS"
+			(at 85.344 62.484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C2877852"
+			(at 85.09 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "010fecef-9269-4e18-9cce-ab96dd159aa6")
+		)
+		(pin "2"
+			(uuid "78149b28-a99a-4fd3-80e1-2535ed662ea6")
+		)
+		(pin "3"
+			(uuid "312b506b-5c32-4441-8b89-a6ba5c099b50")
+		)
+		(pin "1"
+			(uuid "aaa2737c-2b36-4428-ac4c-f5507a6eef70")
+		)
+		(pin "4"
+			(uuid "45d45376-3052-4eec-8e66-d6f0b4318fc6")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0402_1005Metric]YAGEO RC0402FR-07120KL")
+		(at 107.95 57.15 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "39ad061b-879b-450f-88e3-617b7773302a")
+		(property "Reference" "R56"
+			(at 110.49 55.8799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RC0402FR-07120KL"
+			(at 113.03 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0402_1005Metric]"
+			(at 115.57 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-07120KL_C93945.html"
+			(at 118.11 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 120kΩ 0402 Chip Resistor - Surface Mount ROHS"
+			(at 123.19 57.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C93945"
+			(at 120.65 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "120k"
+			(at 110.49 58.4199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 125.476 58.166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 127.508 57.404 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6f912ee4-10c5-4a77-a16a-bb6d9fbf0682")
+		)
+		(pin "1"
+			(uuid "7216206c-7dfb-439c-83bb-f3032056d6a9")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "R56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[FERRITE_BEAD]Murata Electronics BLM18PG121SN1D")
+		(at 55.88 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3c0b435a-4ab0-4d57-bb10-7ea6245278b6")
+		(property "Reference" "FB1"
+			(at 55.88 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BLM18BD252SN1D"
+			(at 55.88 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[FERRITE_BEAD_0603_1608Metric]"
+			(at 55.88 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/Ferrite-Beads_Murata-Electronics-BLM18PG121SN1D_C14709.html?s_z=n_BLM18PG121SN1D"
+			(at 55.88 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "50mΩ ±25% 120Ω@100MHz 0603 Ferrite Beads ROHS"
+			(at 55.88 47.752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C14709"
+			(at 55.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 55.626 49.784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 55.88 36.068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "120Ω@100MHz"
+			(at 55.88 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a91c1cd3-0c2d-4f98-b457-40ab2a50c3bf")
+		)
+		(pin "2"
+			(uuid "93961f18-f213-4b4e-b5ee-0c2654c853d5")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "FB1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]Samsung Electro-Mechanics CL03A105MQ3CSNH")
+		(at 121.92 45.72 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "735cdf69-dbd4-48bc-b314-f4545d499e79")
+		(property "Reference" "C21"
+			(at 125.73 44.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CL03A105MQ3CSNH"
+			(at 127 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 129.54 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 132.08 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "6.3V 1uF X5R ±20% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 136.652 44.958 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C53067"
+			(at 134.62 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 138.684 45.466 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "1uF"
+			(at 125.73 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 140.716 45.466 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d81524c-8e75-48b8-8ae9-d6d7d9a59f71")
+		)
+		(pin "2"
+			(uuid "0c9b191c-2581-44e7-8bdc-2771a2c9c74a")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "C21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]Samsung Electro-Mechanics CL03A105MQ3CSNH")
+		(at 63.5 36.83 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b3c2558d-f494-44b9-b750-cc65a54842f8")
+		(property "Reference" "C20"
+			(at 67.31 35.5599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CL03A105MQ3CSNH"
+			(at 68.58 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 71.12 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 73.66 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "6.3V 1uF X5R ±20% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 78.232 36.068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C53067"
+			(at 76.2 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 80.264 36.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "1uF"
+			(at 67.31 38.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 82.296 36.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "886be773-ebb3-4d83-979a-f5b291ab9783")
+		)
+		(pin "2"
+			(uuid "bf823aa5-32c9-4e57-83cf-d5a7149b2971")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "C20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[TEST_POINT]TestPoint")
+		(at 121.92 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7786be1-c3aa-4758-9655-4942c578a5e4")
+		(property "Reference" "TP5"
+			(at 124.46 37.3379 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "VDD_1V0"
+			(at 124.46 39.8779 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[TEST_POINT]TestPoint_Pad_D1.0mm"
+			(at 121.666 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.952 42.164 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "General test point"
+			(at 122.174 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "18f08722-4909-45dc-ad79-e8ab81a6a23c")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "TP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0805_2012Metric]UNI-ROYAL(Uniroyal Elec) 0805W8F1003T5E")
+		(at 107.95 46.99 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be76ec1b-a540-4268-a72e-115ddf18346e")
+		(property "Reference" "R55"
+			(at 110.49 45.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0805W8F1003T5E"
+			(at 105.156 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0805_2012Metric]"
+			(at 113.03 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1003T5E_C149504.html"
+			(at 115.57 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "125mW Thick Film Resistors 150V ±100ppm/℃ ±1% 100kΩ 0805 Chip Resistor - Surface Mount ROHS"
+			(at 120.396 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C149504"
+			(at 118.11 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100k"
+			(at 110.49 48.2599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 122.936 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 124.968 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "64abf363-a0bc-45b4-b41d-cf0455464b73")
+		)
+		(pin "2"
+			(uuid "570bb525-c50d-45a5-a315-dc49c4e01161")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "R55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 76.2 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d8992adf-ca0c-4706-b2a5-fc42635e0373")
+		(property "Reference" "#PWR023"
+			(at 76.2 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 76.2 51.054 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 76.2 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2ff81694-7209-4307-a9a1-2dcd83971a3a")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
+		(at 54.61 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d9e6ced1-f295-4663-b3cc-bc806a8efa04")
+		(property "Reference" "R54"
+			(at 54.61 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0201WMF1002TEE"
+			(at 54.864 64.008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 54.61 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0201WMF1002TEE_C473048.html"
+			(at 54.61 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/20W Thick Film Resistors 25V ±1% ±200ppm/℃ 10kΩ 0201 Chip Resistor - Surface Mount ROHS"
+			(at 56.134 59.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C473048"
+			(at 54.61 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 55.372 61.468 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10k"
+			(at 54.61 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0201"
+			(at 54.61 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9b53248f-c5ae-4469-a997-275500fc29df")
+		)
+		(pin "1"
+			(uuid "818bdee7-d711-44dd-98af-6bfb15c15be0")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "R54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 63.5 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "edb6413a-31c3-44fb-a19b-25cf27d5d421")
+		(property "Reference" "#PWR024"
+			(at 63.5 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 67.31 42.672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bb0bc840-5245-4d33-bbd7-d66f556cfc69")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 107.95 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fef28004-23cc-436c-ba5f-d388ed7f28c5")
+		(property "Reference" "#PWR026"
+			(at 107.95 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 107.95 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 107.95 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 107.95 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 107.95 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d0218c5f-a89b-4dd5-9655-39a022b5f2fc")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/da856c7c-25fb-42ac-8971-606b4cd52ac6"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

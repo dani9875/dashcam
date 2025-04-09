@@ -631,6 +631,26 @@
     [
       "58ba7192-9bd2-4640-8041-15a69dce05ca",
       "Bootstrap"
+    ],
+    [
+      "97d97b12-d924-4e04-8775-cfa0a0f27f6a",
+      "DCAPs"
+    ],
+    [
+      "9edd5e4e-bb8e-4c81-bbf2-addd01d032ef",
+      "SoC Power"
+    ],
+    [
+      "71e5dac2-4afa-4b16-9d7c-88894221bc7b",
+      "PMIC"
+    ],
+    [
+      "da856c7c-25fb-42ac-8971-606b4cd52ac6",
+      "LDO 1V0"
+    ],
+    [
+      "0115f286-8e80-4bc6-a636-ca28db07176d",
+      "Ethernet"
     ]
   ],
   "text_variables": {}
