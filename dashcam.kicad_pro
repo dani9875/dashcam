@@ -651,6 +651,10 @@
     [
       "0115f286-8e80-4bc6-a636-ca28db07176d",
       "Ethernet"
+    ],
+    [
+      "b30f1eb0-bf7c-4f68-9abd-a86df79f7469",
+      "SD"
     ]
   ],
   "text_variables": {}

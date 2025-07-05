@@ -27309,6 +27309,48 @@
 		)
 	)
 	(sheet
+		(at 123.952 153.924)
+		(size 36.068 21.336)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b30f1eb0-bf7c-4f68-9abd-a86df79f7469")
+		(property "Sheetname" "SD"
+			(at 123.952 153.2124 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sd.kicad_sch"
+			(at 123.952 175.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 29.21 88.9)
 		(size 12.7 5.08)
 		(exclude_from_sim no)
