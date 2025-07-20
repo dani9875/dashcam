@@ -26052,6 +26052,48 @@
 		)
 	)
 	(sheet
+		(at 245.364 99.568)
+		(size 81.28 30.226)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d699a9f8-e4b6-41ca-8e95-ac75f365d4d0")
+		(property "Sheetname" "RTC"
+			(at 245.364 98.8564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rtc.kicad_sch"
+			(at 245.364 130.3786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 22.86 240.03)
 		(size 38.1 17.78)
 		(exclude_from_sim no)
@@ -26090,6 +26132,48 @@
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce"
 					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 92.964)
+		(size 38.862 21.844)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e32d7694-9c48-497a-b173-43968d858b60")
+		(property "Sheetname" "EEPROM"
+			(at 177.8 92.2524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eeprom.kicad_sch"
+			(at 177.8 115.3926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce"
+					(page "13")
 				)
 			)
 		)

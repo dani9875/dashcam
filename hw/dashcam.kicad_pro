@@ -655,6 +655,14 @@
     [
       "b30f1eb0-bf7c-4f68-9abd-a86df79f7469",
       "SD"
+    ],
+    [
+      "e32d7694-9c48-497a-b173-43968d858b60",
+      "EEPROM"
+    ],
+    [
+      "d699a9f8-e4b6-41ca-8e95-ac75f365d4d0",
+      "RTC"
     ]
   ],
   "text_variables": {}
