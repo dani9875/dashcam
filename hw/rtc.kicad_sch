@@ -290,6 +290,421 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "pepy_sym_lib:[CAP_SMD_0805_2012Metric]KEMET C0805C120J5GACAUTO"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.002)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.842 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "C0805C120J5GACAUTO"
+				(at -0.254 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "pepy_sym_lib:[CAP_SMD_0805_2012Metric]"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410122018_KEMET-C0805C120J5GACAUTO_C3844403.pdf"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "50V 12pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+				(at 0 -13.716 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C3844403"
+				(at 0 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" " KEMET "
+				(at 0.508 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Package" "0805"
+				(at 0 -18.542 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Nvalue" "12pF"
+				(at 0.254 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "[CAP_SMD_0805_2012Metric]KEMET C0805C120J5GACAUTO_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 2.03) (xy -0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "[CAP_SMD_0805_2012Metric]KEMET C0805C120J5GACAUTO_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "pepy_sym_lib:[Crystal_32_768_kHZ]Seiko SC-20S,32.768kHz,20PPM,9pF"
+			(pin_numbers
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "X"
+				(at 0 3.048 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SC-20S32.768kHz20PPM9pF"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "pepy_sym_lib:[Crystal_32_768_kHZ]Seiko SC-20S,32.768kHz,20PPM,9pF"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_SEIKO_SC-20S32-768kHz20PPM9pF_32-768kHz-20PPM-9pF_C97603.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "32.768kHz 9pF ±20ppm SMD2012-2P Crystals ROHS"
+				(at 0 -14.478 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C97603"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Nvalue" "32.768kHz"
+				(at 0.254 -3.048 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Seiko"
+				(at -0.254 -16.002 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Package" "SMD2012-2P"
+				(at 0.254 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "[Crystal_32_768_kHZ]Seiko SC-20S,32.768kHz,20PPM,9pF_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -1.52 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.02) (xy -1.27 1.02)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.78) (xy -1.27 1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.76 -1.78) (xy -0.76 1.78) (xy 0.76 1.78) (xy 0.76 -1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.76 -1.78) (xy -0.76 -1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.02) (xy 1.27 1.02)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.78) (xy 1.27 1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 1.52 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "[Crystal_32_768_kHZ]Seiko SC-20S,32.768kHz,20PPM,9pF_1_1"
+				(polyline
+					(pts
+						(xy 0.76 1.78) (xy 0.76 -1.78) (xy -0.76 -1.78) (xy -0.76 1.78) (xy 0.76 1.78)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "pepy_sym_lib:[ESD_PROT]Texas Instruments TPD1E1B04DPYR"
 			(pin_names
 				(hide yes)
@@ -1033,6 +1448,18 @@
 		(uuid "13d5ca5b-8754-4787-adc8-244f40774fb3")
 	)
 	(junction
+		(at 110.49 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5addfd16-fc70-4c21-9183-3a55622af61c")
+	)
+	(junction
+		(at 110.49 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f739ccd-8c5c-46ce-830c-84159d200ada")
+	)
+	(junction
 		(at 54.61 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1043,6 +1470,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a4c985a8-53c4-490c-a040-80080ef91f24")
+	)
+	(junction
+		(at 125.73 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fe5ee478-f4bc-441f-bf39-400c44a63a8a")
 	)
 	(wire
 		(pts
@@ -1066,6 +1499,26 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 60.96) (xy 125.73 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3eab93b1-4e12-4847-90dc-0ffb31efd54c")
+	)
+	(wire
+		(pts
+			(xy 106.68 71.12) (xy 110.49 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "490f35d2-fe5f-4ab4-89d8-2f969d4c9bec")
+	)
+	(wire
+		(pts
 			(xy 101.6 77.47) (xy 139.7 77.47)
 		)
 		(stroke
@@ -1073,6 +1526,16 @@
 			(type default)
 		)
 		(uuid "4cfd2b85-d519-4f84-85b0-1c306a345209")
+	)
+	(wire
+		(pts
+			(xy 106.68 74.93) (xy 106.68 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52b46244-18c8-4a5d-bc97-f14070cdc5f6")
 	)
 	(wire
 		(pts
@@ -1096,6 +1559,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 72.39) (xy 105.41 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8874f7fa-eb1a-4a5a-ba1c-e3eaec9304f1")
+	)
+	(wire
+		(pts
 			(xy 139.7 77.47) (xy 143.51 77.47)
 		)
 		(stroke
@@ -1113,6 +1586,56 @@
 			(type default)
 		)
 		(uuid "9f164510-7ae1-4dc9-85d5-66ffd8cf6d0c")
+	)
+	(wire
+		(pts
+			(xy 105.41 60.96) (xy 110.49 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9a171e1-b486-4ecb-9663-9e113bb46f2e")
+	)
+	(wire
+		(pts
+			(xy 118.11 71.12) (xy 125.73 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5e401fd-859e-4688-abc6-323a9bc8d9f6")
+	)
+	(wire
+		(pts
+			(xy 101.6 74.93) (xy 106.68 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d74091ad-9b34-4aef-b3f4-0c191ee6bc27")
+	)
+	(wire
+		(pts
+			(xy 118.11 60.96) (xy 125.73 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e217951d-2a20-46d1-9e40-dc38eaf3e39e")
+	)
+	(wire
+		(pts
+			(xy 101.6 72.39) (xy 105.41 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7988af7-48f7-40ed-93a1-ad0d34d3a954")
 	)
 	(wire
 		(pts
@@ -1183,6 +1706,71 @@
 			(justify right bottom)
 		)
 		(uuid "e0c7ba80-cb80-43df-93d0-dbaa242d5f70")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 125.73 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0eff1c45-9533-45dd-9e02-29375e1bf4ff")
+		(property "Reference" "#PWR068"
+			(at 125.73 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 125.73 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 125.73 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a8e14a7a-7bb4-4027-a80a-8c6fd07581d9")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/d699a9f8-e4b6-41ca-8e95-ac75f365d4d0"
+					(reference "#PWR068")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -1697,6 +2285,111 @@
 		)
 	)
 	(symbol
+		(lib_id "pepy_sym_lib:[Crystal_32_768_kHZ]Seiko SC-20S,32.768kHz,20PPM,9pF")
+		(at 110.49 66.04 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "affb25cd-e7c5-44be-96fa-c9e6fc1b2bd5")
+		(property "Reference" "X1"
+			(at 105.918 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SC-20S32.768kHz20PPM9pF"
+			(at 105.41 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[Crystal_32_768_kHZ]Seiko SC-20S,32.768kHz,20PPM,9pF"
+			(at 102.87 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_SEIKO_SC-20S32-768kHz20PPM9pF_32-768kHz-20PPM-9pF_C97603.html"
+			(at 100.33 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "32.768kHz 9pF ±20ppm SMD2012-2P Crystals ROHS"
+			(at 96.012 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C97603"
+			(at 97.79 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "32.768kHz"
+			(at 112.776 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "Seiko"
+			(at 94.488 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD2012-2P"
+			(at 92.71 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "202ba34b-ec8b-4b1b-8f25-37d3e807eb4a")
+		)
+		(pin "2"
+			(uuid "63c09c5d-f29b-4ac5-8e20-b41a5cebd05d")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/d699a9f8-e4b6-41ca-8e95-ac75f365d4d0"
+					(reference "X1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]UNI-ROYAL(Uniroyal Elec) 0201WMF1002TEE")
 		(at 139.7 72.39 90)
 		(unit 1)
@@ -1797,6 +2490,212 @@
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/d699a9f8-e4b6-41ca-8e95-ac75f365d4d0"
 					(reference "R94")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0805_2012Metric]KEMET C0805C120J5GACAUTO")
+		(at 114.3 71.12 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "d9b60fa9-7ba0-4c80-a8d0-b9a2e6987785")
+		(property "Reference" "C63"
+			(at 111.506 72.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C0805C120J5GACAUTO"
+			(at 114.554 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0805_2012Metric]"
+			(at 114.3 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410122018_KEMET-C0805C120J5GACAUTO_C3844403.pdf"
+			(at 114.3 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "50V 12pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 114.3 57.404 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C3844403"
+			(at 114.3 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" " KEMET "
+			(at 113.792 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 114.3 52.578 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "12pF"
+			(at 117.348 72.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "10aa05a9-9517-47ab-a650-c6b2ab6069e6")
+		)
+		(pin "2"
+			(uuid "422140af-4508-4662-9c04-c3b1ff85ee29")
+		)
+		(instances
+			(project ""
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/d699a9f8-e4b6-41ca-8e95-ac75f365d4d0"
+					(reference "C63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0805_2012Metric]KEMET C0805C120J5GACAUTO")
+		(at 114.3 60.96 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp yes)
+		(uuid "dda83074-442d-4c0b-9f9f-176401896c2a")
+		(property "Reference" "C65"
+			(at 111.506 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C0805C120J5GACAUTO"
+			(at 114.554 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0805_2012Metric]"
+			(at 114.3 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410122018_KEMET-C0805C120J5GACAUTO_C3844403.pdf"
+			(at 114.3 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "50V 12pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 114.3 47.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C3844403"
+			(at 114.3 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" " KEMET "
+			(at 113.792 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 114.3 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "12pF"
+			(at 117.348 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "11ba9c75-6c30-4fb1-aa8b-cf48245bfc9f")
+		)
+		(pin "2"
+			(uuid "0465b59d-e18c-4f7d-a9ee-5d945a7a75d7")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/d699a9f8-e4b6-41ca-8e95-ac75f365d4d0"
+					(reference "C65")
 					(unit 1)
 				)
 			)
