@@ -10075,16 +10075,40 @@
 		(uuid "02ae05a4-7387-4fae-a707-0034a8742cbb")
 	)
 	(junction
+		(at 55.88 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04b86b11-7b03-48bf-acc3-c16ead8e8568")
+	)
+	(junction
 		(at 24.13 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "04d71fb3-6c4a-4430-bf3c-1c82fd9307e1")
 	)
 	(junction
+		(at 39.37 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04deaedc-0800-46d3-8d17-275f13580f1a")
+	)
+	(junction
+		(at 63.5 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0625bfe6-0b26-437e-aadc-e4239165e19c")
+	)
+	(junction
 		(at 24.13 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "071b7429-321d-4001-94f6-23289e4c8db7")
+	)
+	(junction
+		(at 63.5 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "081cd43c-b497-4b1f-b842-d4be9f4a322c")
 	)
 	(junction
 		(at 24.13 134.62)
@@ -10117,10 +10141,22 @@
 		(uuid "0f7a1b7e-559d-4b55-8af0-1a633ec50812")
 	)
 	(junction
+		(at 93.98 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "11626387-aa2f-4e2e-830b-cdd48035589c")
+	)
+	(junction
 		(at 80.01 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "11dd47a1-8f56-48bc-b113-a2d31f1b2c2f")
+	)
+	(junction
+		(at 93.98 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "120f5405-ca67-4995-891c-650a3565e689")
 	)
 	(junction
 		(at 80.01 162.56)
@@ -10135,16 +10171,34 @@
 		(uuid "1816de65-802c-411d-b44b-c58109d74203")
 	)
 	(junction
+		(at 39.37 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1837d691-f1e5-4b6d-a961-8dda475d3d48")
+	)
+	(junction
 		(at 78.74 17.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1856fea3-69cf-4fba-b347-633a6e141e60")
 	)
 	(junction
+		(at 55.88 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b258960-b9e4-4acf-ac5e-28e38658cf58")
+	)
+	(junction
 		(at 24.13 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1c817b3c-9bed-423e-b3fa-b320b183ce8a")
+	)
+	(junction
+		(at 55.88 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22b8dc7b-a281-47b7-bbcc-67199912ccec")
 	)
 	(junction
 		(at 63.5 17.78)
@@ -10165,6 +10219,12 @@
 		(uuid "288a2cf8-b8bf-4ef5-aba2-cea816e66d62")
 	)
 	(junction
+		(at 48.26 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "295f6fe4-51fc-4ed8-a3fc-b3a53ba7c3b1")
+	)
+	(junction
 		(at 116.84 17.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10177,16 +10237,40 @@
 		(uuid "2ca3ec3f-0337-415d-a230-4a5d46d07a2e")
 	)
 	(junction
+		(at 93.98 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ffaf236-cdb8-4c1d-b65f-d1f960764ccb")
+	)
+	(junction
 		(at 80.01 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "327fff45-1fc9-4b22-a8fe-742e797e9050")
 	)
 	(junction
+		(at 78.74 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "34ee6853-e508-4129-b652-498e9a3d3c9f")
+	)
+	(junction
+		(at 101.6 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "38f17bd6-d9a0-42af-9366-c596d27b5092")
+	)
+	(junction
 		(at 80.01 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "39bf1777-9ecc-49c7-b3ba-4fcd9dd6f2a6")
+	)
+	(junction
+		(at 78.74 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a749a39-7ff7-45c6-b8b6-f1f65584bdd8")
 	)
 	(junction
 		(at 154.94 17.78)
@@ -10243,6 +10327,12 @@
 		(uuid "47d6495b-f2fc-4e9f-be43-f3650a1200d1")
 	)
 	(junction
+		(at 63.5 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4a38cbe8-f41d-403d-a22c-2fc092f3043e")
+	)
+	(junction
 		(at 80.01 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10273,6 +10363,24 @@
 		(uuid "4deda55b-eee3-450f-a966-e9ed4f761493")
 	)
 	(junction
+		(at 63.5 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f80906e-0866-4baf-8264-3541c438f65d")
+	)
+	(junction
+		(at 48.26 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5010770c-7cfa-40d3-933d-3a2a6e34b5fc")
+	)
+	(junction
+		(at 55.88 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "519797a3-432d-4fb1-8138-873258bde02f")
+	)
+	(junction
 		(at 24.13 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10297,6 +10405,24 @@
 		(uuid "5a34f6dd-066a-4ecd-9315-5bb409a4bc37")
 	)
 	(junction
+		(at 39.37 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ab782a1-7310-4bf8-bdf7-559bf79c3923")
+	)
+	(junction
+		(at 78.74 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b823556-50c5-4724-8cb7-d3d9227384e4")
+	)
+	(junction
+		(at 55.88 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b83075b-e81d-49de-b555-9016a5f10c27")
+	)
+	(junction
 		(at 48.26 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10315,10 +10441,22 @@
 		(uuid "5f32a865-6d76-4960-883a-8103f0d82719")
 	)
 	(junction
+		(at 86.36 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f4ad2e7-3396-41dc-86d0-68f9f1753acb")
+	)
+	(junction
 		(at 80.01 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6229b1a7-192f-4ccf-8142-6fd2fe4d6f37")
+	)
+	(junction
+		(at 48.26 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "625d0a1c-8a69-4e57-a06b-6b799c931f14")
 	)
 	(junction
 		(at 201.93 160.02)
@@ -10327,10 +10465,28 @@
 		(uuid "634df7ac-c516-460a-b49d-be9d89189aaf")
 	)
 	(junction
+		(at 93.98 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65470f54-e7b7-4aa0-ae4f-23ca63a48d26")
+	)
+	(junction
 		(at 80.01 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6577fd9d-d427-4c4e-b1a6-14b3b0096fd0")
+	)
+	(junction
+		(at 86.36 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "660173f0-7fc4-4f37-bc4b-03a5a083a9ff")
+	)
+	(junction
+		(at 101.6 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6663be3c-de64-43e7-8a6c-defa200ceaa1")
 	)
 	(junction
 		(at 24.13 170.18)
@@ -10339,10 +10495,22 @@
 		(uuid "67d35769-53cb-4065-8959-7640eecea8fb")
 	)
 	(junction
+		(at 31.75 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "68344bc8-8b99-4ff8-a32e-79ca779fa1fd")
+	)
+	(junction
 		(at 24.13 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "687c9602-2b4b-48ce-a622-a10c117f4fd6")
+	)
+	(junction
+		(at 55.88 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6a91598a-5608-4982-ae4e-377f9581c082")
 	)
 	(junction
 		(at 80.01 167.64)
@@ -10351,16 +10519,52 @@
 		(uuid "6c578f96-ab93-40bb-9d3a-6acad700d3ac")
 	)
 	(junction
+		(at 116.84 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6dd5686f-591a-4808-a9ac-0a6351aa8fe7")
+	)
+	(junction
 		(at 24.13 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71c6e309-5d94-4576-8161-1558915aa39a")
 	)
 	(junction
+		(at 71.12 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "737e4483-7b35-4e14-b9f8-d4e9dda6a2df")
+	)
+	(junction
+		(at 39.37 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74f3aed6-b374-4431-8790-0058eda066db")
+	)
+	(junction
+		(at 86.36 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74f6ff21-6f1d-47da-bd40-d841ecbe7d84")
+	)
+	(junction
+		(at 93.98 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "756fc336-f994-4e36-916b-55324a7a8f60")
+	)
+	(junction
 		(at 36.83 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "76c2ba96-d6d6-426f-9bce-4eceffced558")
+	)
+	(junction
+		(at 109.22 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "781e0fc8-09a2-4754-abdf-272dab75e434")
 	)
 	(junction
 		(at 55.88 25.4)
@@ -10375,10 +10579,28 @@
 		(uuid "7c601f96-44e4-4a76-88eb-d01eb66015a9")
 	)
 	(junction
+		(at 86.36 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7dd4a7b0-0963-4f3d-b480-f7b44426f489")
+	)
+	(junction
 		(at 36.83 17.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7fa93076-46ee-42d6-80af-a951ee7d7a72")
+	)
+	(junction
+		(at 78.74 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "812111e8-bf6b-4d0f-aeb3-be985bcfb470")
+	)
+	(junction
+		(at 48.26 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8153309c-1333-4390-a941-bf3e682ea3e8")
 	)
 	(junction
 		(at 154.94 25.4)
@@ -10399,10 +10621,22 @@
 		(uuid "8968f4c6-eafe-4a07-8718-669cf60d0841")
 	)
 	(junction
+		(at 39.37 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8acc2fb5-d49a-43a4-8e82-38a5268b6c43")
+	)
+	(junction
 		(at 86.36 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8ae51b35-8c4e-48f2-baeb-a51f30514041")
+	)
+	(junction
+		(at 48.26 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8bd97370-4e42-4234-932f-3a2b63a02f57")
 	)
 	(junction
 		(at 181.61 160.02)
@@ -10435,6 +10669,24 @@
 		(uuid "912f65b4-fb9b-4304-a58a-7acbb3f79053")
 	)
 	(junction
+		(at 48.26 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91ef4d01-4015-40a7-8634-03b93fcb6e7a")
+	)
+	(junction
+		(at 55.88 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9251aa5e-057c-43de-84ab-15377f862d3a")
+	)
+	(junction
+		(at 78.74 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "92b694a9-a1be-45eb-a098-d986693b9b55")
+	)
+	(junction
 		(at 24.13 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10453,10 +10705,22 @@
 		(uuid "94115b1b-e9e8-4748-bbe6-4e1dfefefebe")
 	)
 	(junction
+		(at 109.22 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "956dace2-1518-4fe1-8de1-945721f663df")
+	)
+	(junction
 		(at 24.13 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "982a5b2e-5634-4e84-866f-2e06b4c31e13")
+	)
+	(junction
+		(at 71.12 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9863a1c5-84cd-4803-85e9-b3d1be462979")
 	)
 	(junction
 		(at 24.13 160.02)
@@ -10471,10 +10735,28 @@
 		(uuid "99c9a362-a0b6-4360-a58f-22d2b2d403b1")
 	)
 	(junction
+		(at 86.36 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b2e1cb2-d66d-4ca5-a198-b9c7642db36f")
+	)
+	(junction
+		(at 71.12 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9bf0ce07-a071-4e80-8dfc-7a58655b8c19")
+	)
+	(junction
 		(at 80.01 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9e2d0e7e-2880-4e4f-81fc-26cf95c5e8bc")
+	)
+	(junction
+		(at 31.75 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e99bf24-7081-4b35-b504-b6520be5851b")
 	)
 	(junction
 		(at 80.01 147.32)
@@ -10525,6 +10807,12 @@
 		(uuid "ad603de1-3c34-41ee-8d94-210797784e1b")
 	)
 	(junction
+		(at 86.36 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ade93d4d-249d-4e81-935a-ae2d8d3c52f5")
+	)
+	(junction
 		(at 24.13 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10535,6 +10823,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "af3abccc-b2be-4cd0-8611-0ed85d3b1774")
+	)
+	(junction
+		(at 101.6 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b0400484-397f-42ad-abd7-441c4e3ff0d0")
 	)
 	(junction
 		(at 80.01 134.62)
@@ -10549,10 +10843,34 @@
 		(uuid "b592169c-dc9f-4735-9ccf-f7cc9f63d16c")
 	)
 	(junction
+		(at 31.75 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b654d48a-9a6a-4fce-b543-f449a49f135e")
+	)
+	(junction
+		(at 71.12 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b720dace-b999-44ae-8350-ca35ed85ed8c")
+	)
+	(junction
 		(at 186.69 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ba5b715a-6d0c-4696-b9bc-2062ed1b9435")
+	)
+	(junction
+		(at 39.37 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bad8f796-da9e-4875-ab28-277a3869f73c")
+	)
+	(junction
+		(at 48.26 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bb0dab70-21be-4e15-96f8-6d8aab02745d")
 	)
 	(junction
 		(at 80.01 121.92)
@@ -10561,10 +10879,22 @@
 		(uuid "bcea3f04-2554-4a05-a963-8050c004e8cf")
 	)
 	(junction
+		(at 39.37 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bdb3fcf8-13b9-4966-af15-178c2d9d8ac0")
+	)
+	(junction
 		(at 24.13 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be857ae6-30dd-441d-bec4-9556b0e3a968")
+	)
+	(junction
+		(at 78.74 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bee7d4e9-8221-4a95-b6a3-619fba15425a")
 	)
 	(junction
 		(at 196.85 160.02)
@@ -10573,10 +10903,40 @@
 		(uuid "bf22fbc4-89ac-4006-a000-da8d8cebdfd3")
 	)
 	(junction
+		(at 71.12 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bfc39a41-82d2-4f0f-b04d-f740d6cf0342")
+	)
+	(junction
 		(at 80.01 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c302cab1-2a2c-490c-862a-d9e869f20c96")
+	)
+	(junction
+		(at 78.74 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c3152c4c-ad6a-4638-a584-740ecd8b3cb8")
+	)
+	(junction
+		(at 48.26 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6ba397f-da92-4e07-ba2e-99dd17e1ad0f")
+	)
+	(junction
+		(at 86.36 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6e4ed6f-b063-4e61-a28a-d05a4a46b37e")
+	)
+	(junction
+		(at 31.75 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c99a26f3-9197-4b8b-911c-ec1ff7e0603a")
 	)
 	(junction
 		(at 80.01 132.08)
@@ -10627,6 +10987,24 @@
 		(uuid "d66c85d4-e685-422a-b004-f8d86bc49f7d")
 	)
 	(junction
+		(at 71.12 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d9a4a73e-b65a-4354-af8a-c346d8d6da85")
+	)
+	(junction
+		(at 101.6 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d9fb6d73-904c-49ae-8490-cdecd2f02c97")
+	)
+	(junction
+		(at 55.88 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da16e93f-97d9-4ac0-a1a0-236cdf421cb4")
+	)
+	(junction
 		(at 132.08 17.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10645,16 +11023,70 @@
 		(uuid "e3b49cc2-f7ba-45e3-b4d7-6d036543ea19")
 	)
 	(junction
+		(at 63.5 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4c1c4d0-09a2-40cc-ac73-b1fc324ba8b5")
+	)
+	(junction
+		(at 39.37 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4e9ae73-1f4d-4045-a9c6-207479d9e44d")
+	)
+	(junction
+		(at 63.5 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e631a8d6-c5fd-4f29-9b5c-5bb92e27094d")
+	)
+	(junction
+		(at 71.12 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea15d317-589b-40a6-9dbb-88861fd4a662")
+	)
+	(junction
+		(at 63.5 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebc27029-1dbc-46f7-ad21-38a58a446acd")
+	)
+	(junction
+		(at 78.74 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed09f1a7-e674-46c6-a04a-b4b6d202d62b")
+	)
+	(junction
 		(at 93.98 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f3501d80-ec0a-4984-8ff2-48873bb3f078")
 	)
 	(junction
+		(at 109.22 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f3f0a808-c803-40ec-8f50-ecb71098c96a")
+	)
+	(junction
 		(at 139.7 17.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f62c383f-6704-464f-a0a9-ec59f88a60b7")
+	)
+	(junction
+		(at 71.12 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6718fe9-fca3-46b7-85df-f5da20549b6c")
+	)
+	(junction
+		(at 63.5 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f677b681-5efa-486b-93e1-16ec5b4fdaca")
 	)
 	(junction
 		(at 80.01 185.42)
@@ -10734,6 +11166,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 69.85) (xy 93.98 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0597570f-2323-4213-97c3-9b0120fc6b2c")
+	)
+	(wire
+		(pts
 			(xy 124.46 17.78) (xy 132.08 17.78)
 		)
 		(stroke
@@ -10741,6 +11183,16 @@
 			(type default)
 		)
 		(uuid "0852841c-78da-4159-839f-6411e39afb8d")
+	)
+	(wire
+		(pts
+			(xy 27.94 46.99) (xy 31.75 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0890d546-bf38-4894-8438-a1e9168a566b")
 	)
 	(wire
 		(pts
@@ -10781,6 +11233,36 @@
 			(type default)
 		)
 		(uuid "0a7d1d34-ecc2-465b-a929-b40fde41b67e")
+	)
+	(wire
+		(pts
+			(xy 78.74 46.99) (xy 86.36 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b2ae6e7-dbca-46ec-918c-66cfd3e4322a")
+	)
+	(wire
+		(pts
+			(xy 39.37 54.61) (xy 48.26 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c3551ea-65ff-4817-afd3-309797fcfa41")
+	)
+	(wire
+		(pts
+			(xy 63.5 78.74) (xy 71.12 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e19560e-7980-4296-a619-3c232966d980")
 	)
 	(wire
 		(pts
@@ -10844,6 +11326,36 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 39.37) (xy 48.26 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17ea6e79-4439-4ea4-a40a-e62ca1198565")
+	)
+	(wire
+		(pts
+			(xy 86.36 62.23) (xy 93.98 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1806bd5f-a724-4d97-9507-abbd2bc4365e")
+	)
+	(wire
+		(pts
+			(xy 71.12 69.85) (xy 78.74 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1855d0fb-6cd3-43c2-84a4-3d618f93551e")
+	)
+	(wire
+		(pts
 			(xy 24.13 165.1) (xy 24.13 167.64)
 		)
 		(stroke
@@ -10851,6 +11363,26 @@
 			(type default)
 		)
 		(uuid "1943f131-e142-4b74-a034-53ca68a2a9da")
+	)
+	(wire
+		(pts
+			(xy 31.75 86.36) (xy 39.37 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19c377a5-d03c-444c-b206-2b62d3d775f4")
+	)
+	(wire
+		(pts
+			(xy 101.6 31.75) (xy 109.22 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b44671f-28c5-407e-9cb5-d50cb054d27a")
 	)
 	(wire
 		(pts
@@ -10914,6 +11446,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 62.23) (xy 78.74 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2464c06f-5e5f-41e5-a15a-c83b40778ade")
+	)
+	(wire
+		(pts
 			(xy 80.01 139.7) (xy 80.01 142.24)
 		)
 		(stroke
@@ -10944,6 +11486,26 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 31.75) (xy 71.12 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ef5318e-30c0-4c24-8bbb-eafb1d14c80f")
+	)
+	(wire
+		(pts
+			(xy 71.12 39.37) (xy 78.74 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30358ddd-f8e9-4b42-a735-bd170571a0d2")
+	)
+	(wire
+		(pts
 			(xy 132.08 25.4) (xy 139.7 25.4)
 		)
 		(stroke
@@ -10951,6 +11513,16 @@
 			(type default)
 		)
 		(uuid "3181e443-9b49-4371-85e8-1dad1f3af9d2")
+	)
+	(wire
+		(pts
+			(xy 93.98 31.75) (xy 101.6 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33e348f0-f7a7-496a-b034-621a64fd5897")
 	)
 	(wire
 		(pts
@@ -10971,6 +11543,16 @@
 			(type default)
 		)
 		(uuid "35807a04-31dd-44dd-83e9-f2feff0e0c43")
+	)
+	(wire
+		(pts
+			(xy 48.26 54.61) (xy 55.88 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "359a8582-4b90-493a-bdf8-cec59fc86b76")
 	)
 	(wire
 		(pts
@@ -11004,6 +11586,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 46.99) (xy 39.37 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39683fe3-de7f-4ce6-8874-d03534320b3c")
+	)
+	(wire
+		(pts
 			(xy 24.13 175.26) (xy 24.13 177.8)
 		)
 		(stroke
@@ -11011,6 +11603,16 @@
 			(type default)
 		)
 		(uuid "3d918638-b04e-42b1-9bc3-ff0abf33bf4d")
+	)
+	(wire
+		(pts
+			(xy 71.12 31.75) (xy 78.74 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e1d39bf-edf2-4432-b49c-90ff0821dec4")
 	)
 	(wire
 		(pts
@@ -11044,6 +11646,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 39.37) (xy 55.88 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42e922f2-6aaa-4031-a269-3060642d6d1d")
+	)
+	(wire
+		(pts
 			(xy 24.13 129.54) (xy 24.13 132.08)
 		)
 		(stroke
@@ -11054,6 +11666,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 78.74) (xy 63.5 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46462a8d-c7d4-43ba-a692-9323174ce954")
+	)
+	(wire
+		(pts
 			(xy 24.13 162.56) (xy 24.13 165.1)
 		)
 		(stroke
@@ -11061,6 +11683,16 @@
 			(type default)
 		)
 		(uuid "46bb98c8-c1f6-4a0c-8685-f08fcae0477e")
+	)
+	(wire
+		(pts
+			(xy 109.22 69.85) (xy 116.84 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47f545cd-22cc-4d09-b90b-d52244f3f8a8")
 	)
 	(wire
 		(pts
@@ -11094,6 +11726,26 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 54.61) (xy 78.74 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d09a3a7-7d7c-4e8a-9499-a0722e59d547")
+	)
+	(wire
+		(pts
+			(xy 48.26 69.85) (xy 55.88 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fe225d5-6967-4c14-904c-6a64c2824393")
+	)
+	(wire
+		(pts
 			(xy 48.26 17.78) (xy 55.88 17.78)
 		)
 		(stroke
@@ -11101,6 +11753,16 @@
 			(type default)
 		)
 		(uuid "50bc4916-0ba9-4c5d-a628-fcede4ea1575")
+	)
+	(wire
+		(pts
+			(xy 48.26 31.75) (xy 55.88 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51490ea9-3e74-4ac9-900e-493feb5ba3b8")
 	)
 	(wire
 		(pts
@@ -11124,6 +11786,26 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 86.36) (xy 63.5 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "578cb490-46a2-4e24-adeb-7e97c05c932f")
+	)
+	(wire
+		(pts
+			(xy 27.94 62.23) (xy 31.75 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58d251b8-68b7-4806-9882-674c01195347")
+	)
+	(wire
+		(pts
 			(xy 24.13 160.02) (xy 24.13 162.56)
 		)
 		(stroke
@@ -11131,6 +11813,36 @@
 			(type default)
 		)
 		(uuid "59227824-406a-4da1-bdd5-7374dc14f969")
+	)
+	(wire
+		(pts
+			(xy 39.37 86.36) (xy 48.26 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b55991a-5950-4fd0-96ec-b03d26191b5b")
+	)
+	(wire
+		(pts
+			(xy 27.94 31.75) (xy 31.75 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b630a0d-0990-4507-b432-4d2c1c0593a6")
+	)
+	(wire
+		(pts
+			(xy 78.74 39.37) (xy 86.36 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b6db380-c67d-4170-b8f6-9c81205ec8f9")
 	)
 	(wire
 		(pts
@@ -11144,6 +11856,26 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 39.37) (xy 71.12 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c02c2ad-4bdb-4604-a507-6e59089f9ae8")
+	)
+	(wire
+		(pts
+			(xy 86.36 31.75) (xy 93.98 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d72c834-6f20-4b6a-b887-1a0e327393a8")
+	)
+	(wire
+		(pts
 			(xy 201.93 160.02) (xy 207.01 160.02)
 		)
 		(stroke
@@ -11154,6 +11886,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 62.23) (xy 101.6 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "601751b9-0a3a-4ac8-9472-3d8c9c52643a")
+	)
+	(wire
+		(pts
 			(xy 124.46 25.4) (xy 132.08 25.4)
 		)
 		(stroke
@@ -11161,6 +11903,36 @@
 			(type default)
 		)
 		(uuid "63f8b23a-e8e4-4bf7-ab51-f45ffa530e50")
+	)
+	(wire
+		(pts
+			(xy 39.37 31.75) (xy 48.26 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "649f33ea-eafa-4810-b958-ea7bd85ca6ba")
+	)
+	(wire
+		(pts
+			(xy 31.75 78.74) (xy 39.37 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67efebc7-0837-4775-b045-39025dcc4408")
+	)
+	(wire
+		(pts
+			(xy 63.5 54.61) (xy 71.12 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6814fd7b-aba0-42db-a5ba-c3d7804a4593")
 	)
 	(wire
 		(pts
@@ -11184,6 +11956,26 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 69.85) (xy 101.6 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f841982-239e-40fc-b970-70ba74479666")
+	)
+	(wire
+		(pts
+			(xy 55.88 46.99) (xy 63.5 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7043c30d-e701-4949-bc26-a3f5776ae463")
+	)
+	(wire
+		(pts
 			(xy 80.01 172.72) (xy 80.01 175.26)
 		)
 		(stroke
@@ -11191,6 +11983,16 @@
 			(type default)
 		)
 		(uuid "7166f586-cbf0-4f2d-af27-43816e7c0d5b")
+	)
+	(wire
+		(pts
+			(xy 63.5 62.23) (xy 71.12 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72269fdf-c979-44fd-b422-42be4fdf3bd9")
 	)
 	(wire
 		(pts
@@ -11214,6 +12016,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 62.23) (xy 63.5 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "752ea491-80cb-492f-9038-657dc694f5ee")
+	)
+	(wire
+		(pts
 			(xy 212.09 147.32) (xy 222.25 147.32)
 		)
 		(stroke
@@ -11224,6 +12036,26 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 78.74) (xy 86.36 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80d8441c-ad4d-4e6f-8f7a-f49c50e4b167")
+	)
+	(wire
+		(pts
+			(xy 63.5 86.36) (xy 71.12 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8104441a-078f-4e4c-8d3d-1f317ce18bc9")
+	)
+	(wire
+		(pts
 			(xy 24.13 152.4) (xy 24.13 154.94)
 		)
 		(stroke
@@ -11231,6 +12063,16 @@
 			(type default)
 		)
 		(uuid "8123f6e2-2801-4e44-968a-f90dc04f69ae")
+	)
+	(wire
+		(pts
+			(xy 55.88 54.61) (xy 63.5 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83290b58-0806-454e-8760-d4a9bcf6b7e7")
 	)
 	(wire
 		(pts
@@ -11274,6 +12116,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 39.37) (xy 101.6 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a5e6c94-2845-420c-ad90-f856eb302de7")
+	)
+	(wire
+		(pts
 			(xy 212.09 152.4) (xy 212.09 147.32)
 		)
 		(stroke
@@ -11284,6 +12136,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 62.23) (xy 48.26 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cc683b5-18ec-4e97-89f4-0a2843a258ed")
+	)
+	(wire
+		(pts
 			(xy 27.94 17.78) (xy 31.75 17.78)
 		)
 		(stroke
@@ -11291,6 +12153,16 @@
 			(type default)
 		)
 		(uuid "8d8a19ed-6b82-4494-84f7-7c93a339f01e")
+	)
+	(wire
+		(pts
+			(xy 86.36 39.37) (xy 93.98 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e11a70b-91c4-4d55-a425-2ed606247b2f")
 	)
 	(wire
 		(pts
@@ -11321,6 +12193,26 @@
 			(type default)
 		)
 		(uuid "911a916e-2496-43b7-833d-df4fb8b8b8e0")
+	)
+	(wire
+		(pts
+			(xy 71.12 86.36) (xy 78.74 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91a6e567-8370-4ded-95ff-f0e7158a56cf")
+	)
+	(wire
+		(pts
+			(xy 55.88 39.37) (xy 63.5 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9234803e-3f1c-4754-994c-cee8eb0f22e3")
 	)
 	(wire
 		(pts
@@ -11384,6 +12276,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 46.99) (xy 78.74 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bae713f-dcee-439c-878e-0c9c1a8c0d4a")
+	)
+	(wire
+		(pts
 			(xy 80.01 147.32) (xy 80.01 149.86)
 		)
 		(stroke
@@ -11401,6 +12303,16 @@
 			(type default)
 		)
 		(uuid "a0930db0-06f6-4e7a-a1a9-8f5f7d3adcad")
+	)
+	(wire
+		(pts
+			(xy 39.37 46.99) (xy 48.26 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0a92b04-091c-43a3-8b20-e60f2448dc00")
 	)
 	(wire
 		(pts
@@ -11464,6 +12376,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 54.61) (xy 93.98 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a70d0135-003a-4c8d-888c-26094ada20db")
+	)
+	(wire
+		(pts
 			(xy 132.08 17.78) (xy 139.7 17.78)
 		)
 		(stroke
@@ -11471,6 +12393,16 @@
 			(type default)
 		)
 		(uuid "a842da38-785e-4143-8f19-efb5abcf29a8")
+	)
+	(wire
+		(pts
+			(xy 101.6 69.85) (xy 109.22 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aaee2836-2990-4e7a-ae2e-0b771d1d698e")
 	)
 	(wire
 		(pts
@@ -11494,6 +12426,26 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 54.61) (xy 39.37 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad9c97d5-44d5-43c8-a6ce-001d2c3fee0f")
+	)
+	(wire
+		(pts
+			(xy 31.75 62.23) (xy 39.37 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b345425b-1e6a-4c74-bfd1-64d7092f1114")
+	)
+	(wire
+		(pts
 			(xy 80.01 170.18) (xy 80.01 172.72)
 		)
 		(stroke
@@ -11511,6 +12463,16 @@
 			(type default)
 		)
 		(uuid "b40f454f-98f6-45e7-8141-f0e65ca7226c")
+	)
+	(wire
+		(pts
+			(xy 86.36 46.99) (xy 93.98 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6c57ed6-4866-41fe-a87b-d07191c6cfe3")
 	)
 	(wire
 		(pts
@@ -11534,6 +12496,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 62.23) (xy 86.36 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb6c79bd-17f8-4150-a216-42f2e0aaaf68")
+	)
+	(wire
+		(pts
 			(xy 80.01 165.1) (xy 80.01 167.64)
 		)
 		(stroke
@@ -11551,6 +12523,36 @@
 			(type default)
 		)
 		(uuid "bc256ab8-8abd-4dc8-a451-2a875874d03b")
+	)
+	(wire
+		(pts
+			(xy 55.88 31.75) (xy 63.5 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bccf3037-e425-4922-bec4-7b501efdcc96")
+	)
+	(wire
+		(pts
+			(xy 31.75 39.37) (xy 39.37 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be11a8c8-5ae0-4a6e-b905-932c1a4be47e")
+	)
+	(wire
+		(pts
+			(xy 48.26 78.74) (xy 55.88 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bef3d70c-f05e-4715-8ec6-e284e07748fa")
 	)
 	(wire
 		(pts
@@ -11574,6 +12576,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 46.99) (xy 71.12 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c10a0a88-dc32-4bc1-ad1f-4466a967fd78")
+	)
+	(wire
+		(pts
 			(xy 80.01 132.08) (xy 80.01 134.62)
 		)
 		(stroke
@@ -11581,6 +12593,16 @@
 			(type default)
 		)
 		(uuid "c2cb1d54-3242-4480-b2b7-4cd46f1512b6")
+	)
+	(wire
+		(pts
+			(xy 48.26 86.36) (xy 55.88 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2dd9345-84e5-42f8-8b7e-988c4bf9a4b8")
 	)
 	(wire
 		(pts
@@ -11624,6 +12646,26 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 86.36) (xy 86.36 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3d9ff99-b296-43da-afc9-c2dd26a93580")
+	)
+	(wire
+		(pts
+			(xy 31.75 31.75) (xy 39.37 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c55687a8-d01a-463d-a12c-5be7a8fc55b6")
+	)
+	(wire
+		(pts
 			(xy 191.77 160.02) (xy 196.85 160.02)
 		)
 		(stroke
@@ -11631,6 +12673,26 @@
 			(type default)
 		)
 		(uuid "c784f402-6c46-4c78-b293-60a43a03ae32")
+	)
+	(wire
+		(pts
+			(xy 55.88 69.85) (xy 63.5 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8dffed6-5640-405a-ad1e-141edada64d0")
+	)
+	(wire
+		(pts
+			(xy 39.37 78.74) (xy 48.26 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c98e09ee-b028-4bff-9f8a-b577d8ddb90c")
 	)
 	(wire
 		(pts
@@ -11651,6 +12713,26 @@
 			(type default)
 		)
 		(uuid "ca0672c2-340e-455b-8c95-c85ecebc3363")
+	)
+	(wire
+		(pts
+			(xy 48.26 62.23) (xy 55.88 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbc56d68-3071-409a-894b-af1f1ffc9697")
+	)
+	(wire
+		(pts
+			(xy 101.6 62.23) (xy 109.22 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc5f330c-42dd-4af7-a42f-be942bcd448d")
 	)
 	(wire
 		(pts
@@ -11724,6 +12806,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 69.85) (xy 71.12 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db89b018-e391-41eb-9263-0c853daeea26")
+	)
+	(wire
+		(pts
 			(xy 80.01 124.46) (xy 80.01 127)
 		)
 		(stroke
@@ -11744,6 +12836,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 78.74) (xy 78.74 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcb519e7-ef37-4ce7-b646-f39e471dfdf4")
+	)
+	(wire
+		(pts
 			(xy 80.01 127) (xy 80.01 129.54)
 		)
 		(stroke
@@ -11754,6 +12856,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 78.74) (xy 31.75 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcd87b39-3002-4796-ba0d-50eeca76b564")
+	)
+	(wire
+		(pts
 			(xy 101.6 17.78) (xy 109.22 17.78)
 		)
 		(stroke
@@ -11761,6 +12873,16 @@
 			(type default)
 		)
 		(uuid "e2c18843-ba9c-42a6-96bb-b15b16b9bb9a")
+	)
+	(wire
+		(pts
+			(xy 109.22 62.23) (xy 116.84 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3e31f87-a604-45dc-86fb-2b58d9aa1082")
 	)
 	(wire
 		(pts
@@ -11781,6 +12903,26 @@
 			(type default)
 		)
 		(uuid "e6977a21-4a1f-41b5-922c-24c0f36fb979")
+	)
+	(wire
+		(pts
+			(xy 78.74 31.75) (xy 86.36 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e72b4cee-62f2-438b-a20f-9525ea4122f3")
+	)
+	(wire
+		(pts
+			(xy 31.75 69.85) (xy 39.37 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebb2c53b-8ec5-497c-8ca1-f8dae8470a39")
 	)
 	(wire
 		(pts
@@ -11844,6 +12986,26 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 69.85) (xy 48.26 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4270a4e-a079-424a-9ed9-b123856cf0a1")
+	)
+	(wire
+		(pts
+			(xy 101.6 39.37) (xy 109.22 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4b25cfe-4526-4d52-a335-f540428f1fe0")
+	)
+	(wire
+		(pts
 			(xy 24.13 157.48) (xy 24.13 160.02)
 		)
 		(stroke
@@ -11894,6 +13056,26 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 54.61) (xy 86.36 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbedab2e-b3cc-4719-9f82-1aa349ced138")
+	)
+	(wire
+		(pts
+			(xy 48.26 46.99) (xy 55.88 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff68430a-b2c5-47d2-96ea-6b03d32dece5")
+	)
+	(wire
+		(pts
 			(xy 80.01 152.4) (xy 80.01 154.94)
 		)
 		(stroke
@@ -11901,6 +13083,60 @@
 			(type default)
 		)
 		(uuid "ff8fb7f9-7d15-4e13-8434-00d071fc9cdb")
+	)
+	(wire
+		(pts
+			(xy 78.74 69.85) (xy 86.36 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fff99d45-aa1b-42f1-9d28-28cb4ee5ff47")
+	)
+	(global_label "VDD_3V3"
+		(shape input)
+		(at 27.94 46.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1c580b7a-3f40-4ca1-9ddc-f6f673f7e1f5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 16.851 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VDDA_0V85"
+		(shape input)
+		(at 27.94 31.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3d6003d0-571a-4df4-b3a9-58f45b0e0f52")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 14.5529 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "VDD_CORE"
 		(shape input)
@@ -11921,6 +13157,260 @@
 				)
 				(justify right)
 				(hide yes)
+			)
+		)
+	)
+	(global_label "VDD_1V2"
+		(shape input)
+		(at 27.94 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "940a7616-b285-4273-9e96-5a6a03d099c2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 16.851 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VDD_1V8"
+		(shape input)
+		(at 27.94 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9a2250a0-57a0-49e9-a9c7-170aecac7df2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 16.851 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]Samsung Electro-Mechanics CL03A105MQ3CSNH")
+		(at 31.75 50.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "01139e69-66ec-49d5-86d7-9c83485f968b")
+		(property "Reference" "C121"
+			(at 32.004 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CL03A105MQ3CSNH"
+			(at 36.83 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 39.37 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 41.91 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "6.3V 1uF X5R ±20% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 46.482 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C53067"
+			(at 44.45 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 48.514 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "1uF"
+			(at 32.004 52.578 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 50.546 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36fed6dc-d5ec-4875-9c03-aba6c93a3632")
+		)
+		(pin "2"
+			(uuid "c4f4fec4-5e85-4973-bb94-1c95ff0aee50")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C121")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0402_1005Metric]YAGEO CC0402MRX5R5BB106")
+		(at 31.75 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "08817a49-8b41-43a5-95c6-a413f6fc6c9c")
+		(property "Reference" "C99"
+			(at 32.004 34.036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0402MRX5R5BB106"
+			(at 36.83 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0402_1005Metric]"
+			(at 39.37 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402MRX5R5BB106_C105884.html?s_z=n_CC0402MRX5R5BB106"
+			(at 41.91 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 46.228 36.068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C105884"
+			(at 44.45 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 48.006 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 49.784 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10uF"
+			(at 32.004 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "2"
+			(uuid "e98f8589-ad98-4442-b1f2-fc1a245fb2e0")
+		)
+		(pin "1"
+			(uuid "c16a3be5-8bd2-448a-93cb-b2c61e577968")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C99")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -12024,6 +13514,426 @@
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
 					(reference "C34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 71.12 50.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "09211e0c-cd57-47e5-ac25-292b8d318c3c")
+		(property "Reference" "C115"
+			(at 71.374 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 76.2 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 78.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 81.28 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 85.852 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 83.82 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 87.884 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 71.374 52.578 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 89.916 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9ff9e90f-3edd-4551-abe6-c824838de943")
+		)
+		(pin "1"
+			(uuid "53584a52-01ce-47bd-bfce-aecc1d88edce")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C115")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 63.5 50.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0be1d248-8bc6-49f9-80a2-681ec472ab2f")
+		(property "Reference" "C114"
+			(at 63.754 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 68.58 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 71.12 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 73.66 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 78.232 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 76.2 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 80.264 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 63.754 52.578 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 82.296 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9656087f-7d9e-4d5d-9036-57b1dcbc80d6")
+		)
+		(pin "1"
+			(uuid "106d92da-ce09-4076-b887-94c7b8eda27c")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C114")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0402_1005Metric]Samsung Electro-Mechanics CL05A475KP5NRNC")
+		(at 39.37 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0c870076-0087-4d3c-be58-92b0c208a4e3")
+		(property "Reference" "C119"
+			(at 39.878 64.262 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CL05A475KP5NRNC"
+			(at 44.45 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0402_1005Metric]"
+			(at 46.99 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A475KP5NRNC_C368809.html"
+			(at 49.53 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 4.7uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 53.848 66.548 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C368809"
+			(at 52.07 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 55.626 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 57.404 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "4.7uF"
+			(at 39.878 68.072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "2"
+			(uuid "92474a6a-671e-4591-9c06-9452e1f74751")
+		)
+		(pin "1"
+			(uuid "d54df3de-a87a-4524-a3bf-d0ce4ffeb22e")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C119")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 109.22 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1edd0233-5d64-4686-8251-f98100092ca2")
+		(property "Reference" "C110"
+			(at 109.474 34.036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 114.3 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 116.84 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 119.38 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 123.952 34.798 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 121.92 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 125.984 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 109.474 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 128.016 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "12003b01-edf6-411c-9493-129660d4f5d8")
+		)
+		(pin "1"
+			(uuid "f3a5c466-b3e8-45ad-8b79-8e665e053cf2")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C110")
 					(unit 1)
 				)
 			)
@@ -12136,6 +14046,111 @@
 	)
 	(symbol
 		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 48.26 50.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "247cd549-ac64-4c1f-bf6a-d214662543e9")
+		(property "Reference" "C112"
+			(at 48.514 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 53.34 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 55.88 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 58.42 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 62.992 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 60.96 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 65.024 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 48.514 52.578 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 67.056 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "72a7c09e-232b-4e50-922c-9179d86c1e3f")
+		)
+		(pin "1"
+			(uuid "9674f56f-f500-4226-aaf3-5c163ca7a750")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C112")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
 		(at 154.94 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12234,6 +14249,111 @@
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
 					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 55.88 50.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "26193a44-c152-4913-b7dd-abe99af61b26")
+		(property "Reference" "C113"
+			(at 56.134 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 60.96 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 63.5 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 66.04 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 70.612 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 68.58 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 72.644 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 56.134 52.578 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 74.676 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e0f0e690-bcff-4a39-bd71-5848b6c104eb")
+		)
+		(pin "1"
+			(uuid "5ad95f81-7578-48c6-ba7e-46919b0f47f2")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C113")
 					(unit 1)
 				)
 			)
@@ -12346,6 +14466,216 @@
 	)
 	(symbol
 		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]Samsung Electro-Mechanics CL03A105MQ3CSNH")
+		(at 31.75 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2de95c6e-f29b-4222-9e00-408f00428f51")
+		(property "Reference" "C132"
+			(at 32.004 81.026 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CL03A105MQ3CSNH"
+			(at 36.83 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 39.37 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 41.91 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "6.3V 1uF X5R ±20% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 46.482 81.788 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C53067"
+			(at 44.45 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 48.514 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "1uF"
+			(at 32.004 84.328 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 50.546 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7482afcf-ea69-40a6-92ec-abbd0a186e23")
+		)
+		(pin "2"
+			(uuid "56d1c7a1-faaf-49da-a90c-149a155721a9")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C132")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 93.98 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2feebe23-71cd-4791-a509-d78bf08d3ec4")
+		(property "Reference" "C108"
+			(at 94.234 34.036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 99.06 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 101.6 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 104.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 108.712 34.798 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 106.68 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 110.744 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 94.234 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 112.776 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1734c0bb-02e5-42cd-bb93-9d1d6b5d90c4")
+		)
+		(pin "1"
+			(uuid "bc56125c-0364-4eb8-bdc1-eb1656084b08")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C108")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]Samsung Electro-Mechanics CL03A105MQ3CSNH")
 		(at 181.61 156.21 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12450,6 +14780,216 @@
 		)
 	)
 	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 93.98 50.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "312c5023-b7c7-4d63-8f8a-0669bde72093")
+		(property "Reference" "C118"
+			(at 94.234 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 99.06 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 101.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 104.14 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 108.712 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 106.68 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 110.744 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 94.234 52.578 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 112.776 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bd30cf72-fe77-47ef-8345-85baa706ad57")
+		)
+		(pin "1"
+			(uuid "a1ca05ab-895b-46ad-938f-a8076dbf8499")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C118")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 101.6 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "31d4ce60-55bd-409b-b736-a64a6e47283b")
+		(property "Reference" "C109"
+			(at 101.854 34.036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 106.68 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 111.76 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 116.332 34.798 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 114.3 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 118.364 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 101.854 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 120.396 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "75df363d-d161-428b-ba9b-bcce8f243673")
+		)
+		(pin "1"
+			(uuid "a741821a-da91-4ac0-907b-8080d2cb187c")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 162.56 25.4 0)
 		(unit 1)
@@ -12509,6 +15049,281 @@
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
 					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 63.5 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3bf4ce67-99af-4c73-9729-e86d56157a6e")
+		(property "Reference" "C104"
+			(at 63.754 34.036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 68.58 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 71.12 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 73.66 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 78.232 34.798 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 76.2 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 80.264 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 63.754 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 82.296 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "272fccb3-15b7-421a-9dec-71026f75d0f2")
+		)
+		(pin "1"
+			(uuid "f0f8cfe0-b133-4513-ab97-67d9af2c4063")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 55.88 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3e7e5b61-4e24-42c1-b65e-e95ace59162b")
+		(property "Reference" "C103"
+			(at 56.134 34.036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 60.96 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 63.5 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 66.04 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 70.612 34.798 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 68.58 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 72.644 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 56.134 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 74.676 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fe64098e-4776-4a17-86b9-a04442f67261")
+		)
+		(pin "1"
+			(uuid "a221c121-c952-428e-944a-66f9a653e43a")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 109.22 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4466d5d5-a8f1-4b30-a828-6ceee0a4614c")
+		(property "Reference" "#PWR087"
+			(at 109.22 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 109.22 42.926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 109.22 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3c84f564-7476-40f9-8e7f-f9c2d236eb73")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -12621,6 +15436,951 @@
 	)
 	(symbol
 		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 78.74 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4538b190-d6c7-44e4-9c39-e7f8e82f01cc")
+		(property "Reference" "C125"
+			(at 78.994 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 83.82 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 86.36 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 88.9 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 93.472 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 91.44 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.504 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 78.994 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 97.536 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "04ab5be0-b5cf-472c-829d-1e9303d5f579")
+		)
+		(pin "1"
+			(uuid "88bd682c-54aa-4716-b969-736787e3ed24")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C125")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 48.26 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4a976474-6325-4e05-bb2b-c4233753f0b7")
+		(property "Reference" "C120"
+			(at 48.514 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 53.34 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 55.88 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 58.42 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 62.992 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 60.96 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 65.024 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 48.514 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 67.056 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5ab9ca5b-52e7-42be-a3e9-face35df3f75")
+		)
+		(pin "1"
+			(uuid "ab6ffee7-2d2f-4e88-b125-b2912db9965c")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C120")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 109.22 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4d757a01-96dc-4660-9b80-db0d1ced1766")
+		(property "Reference" "C129"
+			(at 109.474 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 114.3 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 116.84 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 119.38 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 123.952 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 121.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 125.984 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 109.474 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 128.016 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "33bffb80-9647-4daf-a720-2ea840bd5999")
+		)
+		(pin "1"
+			(uuid "44378838-6a08-402e-b45c-fc1778b99c63")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C129")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 48.26 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4e4da405-a0c0-4d07-9c0e-3451d9280384")
+		(property "Reference" "C102"
+			(at 48.514 34.036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 53.34 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 55.88 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 58.42 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 62.992 34.798 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 60.96 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 65.024 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 48.514 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 67.056 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "16055193-b0ce-4039-ae91-bf8ceec787b6")
+		)
+		(pin "1"
+			(uuid "46cc6158-8129-4635-a768-938d13fa0742")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 63.5 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "57d46e01-646b-4a59-a22d-109ea1d126a9")
+		(property "Reference" "C136"
+			(at 63.754 81.026 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 68.58 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 71.12 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 73.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 78.232 81.788 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 76.2 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 80.264 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 63.754 84.328 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 82.296 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "377ed4da-1c3e-4ef6-9ff8-9bad2226275f")
+		)
+		(pin "1"
+			(uuid "8f4194cc-36b2-4193-923c-cb99a7ece7b6")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C136")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 55.88 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5c71510e-004c-4a96-9670-11a2bba3071e")
+		(property "Reference" "C135"
+			(at 56.134 81.026 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 60.96 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 63.5 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 66.04 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 70.612 81.788 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 68.58 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 72.644 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 56.134 84.328 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 74.676 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f3523ae3-00de-4cf2-b1e4-58bb7208c95c")
+		)
+		(pin "1"
+			(uuid "5bd25f76-6818-4666-b5da-2c28ea62078c")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C135")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 86.36 50.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "60b9c423-c709-4eb5-b6f0-8064a62dcde8")
+		(property "Reference" "C117"
+			(at 86.614 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 91.44 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 93.98 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 96.52 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 101.092 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 99.06 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 103.124 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 86.614 52.578 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 105.156 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "94c4713b-64d3-425b-9d24-393e2b16bfd1")
+		)
+		(pin "1"
+			(uuid "e4ad6571-21ea-42ae-bb9b-5ce31abc81d8")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C117")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]Samsung Electro-Mechanics CL03A105MQ3CSNH")
+		(at 31.75 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6755c849-4881-4cb6-9ac1-2b6b37936843")
+		(property "Reference" "C130"
+			(at 32.004 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CL03A105MQ3CSNH"
+			(at 36.83 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 39.37 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 41.91 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "6.3V 1uF X5R ±20% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 46.482 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C53067"
+			(at 44.45 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 48.514 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "1uF"
+			(at 32.004 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 50.546 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "67654257-e261-4eba-a614-afe72b014e5c")
+		)
+		(pin "2"
+			(uuid "9d4f1e63-7f77-4cef-96e9-6b2786a1ac42")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C130")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0402_1005Metric]Samsung Electro-Mechanics CL05A475KP5NRNC")
+		(at 39.37 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6ab303e6-0ecc-43f7-b2ff-159f1b482d43")
+		(property "Reference" "C101"
+			(at 39.878 33.782 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CL05A475KP5NRNC"
+			(at 44.45 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0402_1005Metric]"
+			(at 46.99 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A475KP5NRNC_C368809.html"
+			(at 49.53 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 4.7uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 53.848 36.068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C368809"
+			(at 52.07 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 55.626 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 57.404 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "4.7uF"
+			(at 39.878 37.592 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "2"
+			(uuid "c91776b8-ee8a-45fb-9ba4-066a6b1b6f63")
+		)
+		(pin "1"
+			(uuid "d0525b79-4803-4631-b61c-8cc63813a64c")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
 		(at 109.22 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12725,6 +16485,216 @@
 		)
 	)
 	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 93.98 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6cb631b2-072e-49bf-b705-b942d93dd8c9")
+		(property "Reference" "C127"
+			(at 94.234 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 101.6 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 108.712 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 106.68 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 110.744 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 94.234 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 112.776 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c612aa32-43f0-4dac-81aa-491d563d8252")
+		)
+		(pin "1"
+			(uuid "047a5b5d-a45b-49ae-b226-6b7f893c73dd")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C127")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 55.88 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6e4402e4-a836-4588-a0d5-7da02d0cbda9")
+		(property "Reference" "C122"
+			(at 56.134 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 60.96 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 63.5 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 66.04 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 70.612 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 68.58 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 72.644 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 56.134 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 74.676 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "38f8a2bd-bf01-4b11-862d-9a4dd81f1e11")
+		)
+		(pin "1"
+			(uuid "d0a5d1ed-ae4b-44bd-868d-1dd8112157b8")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C122")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 24.13 185.42 0)
 		(unit 1)
@@ -12784,6 +16754,216 @@
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 101.6 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "76285de2-fa1a-4532-95fd-01facc3d6bb2")
+		(property "Reference" "C128"
+			(at 101.854 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 106.68 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 109.22 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 111.76 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 116.332 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 114.3 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 118.364 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 101.854 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 120.396 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "728285ff-98a5-491d-9dc0-749ecd6c475a")
+		)
+		(pin "1"
+			(uuid "2d45eaa2-ec69-4168-adbf-a3109c1cd294")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C128")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 86.36 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7a288c60-afab-40a1-b0aa-d80647b6b026")
+		(property "Reference" "C126"
+			(at 86.614 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 91.44 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 93.98 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 96.52 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 101.092 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 99.06 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 103.124 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 86.614 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 105.156 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e740772d-85b4-4535-a69d-d945ac5f5e90")
+		)
+		(pin "1"
+			(uuid "a309acb6-9aac-4c5c-b845-9729288408ed")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C126")
 					(unit 1)
 				)
 			)
@@ -13059,6 +17239,216 @@
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
 					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 86.36 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "93487cf6-9e99-4999-ae80-8293ac9919c1")
+		(property "Reference" "C139"
+			(at 86.614 81.026 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 91.44 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 93.98 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 96.52 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 101.092 81.788 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 99.06 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 103.124 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 86.614 84.328 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 105.156 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c89dd1ff-c0f1-49d9-9f53-d0587afa9fad")
+		)
+		(pin "1"
+			(uuid "56b0b273-f7ed-43f0-b3bc-9cc23b8232e6")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C139")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 78.74 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "93cee983-337c-4548-9bcb-f1e7ced89258")
+		(property "Reference" "C138"
+			(at 78.994 81.026 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 83.82 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 86.36 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 88.9 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 93.472 81.788 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 91.44 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.504 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 78.994 84.328 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 97.536 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "61bffda2-fa89-43c7-8a3d-864807e56055")
+		)
+		(pin "1"
+			(uuid "ffee6c5f-3604-479d-b5ff-7a86b5c26387")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C138")
 					(unit 1)
 				)
 			)
@@ -13591,6 +17981,321 @@
 	)
 	(symbol
 		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 71.12 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9f1326e6-0f3b-4f50-bc49-4d56133aeb81")
+		(property "Reference" "C124"
+			(at 71.374 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 76.2 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 78.74 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 81.28 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 85.852 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 83.82 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 87.884 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 71.374 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 89.916 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a36ff8b6-56bc-4e64-87cb-0303d8fa826d")
+		)
+		(pin "1"
+			(uuid "ada496ba-6a8b-4897-a4e4-a1832cc780d6")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C124")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0402_1005Metric]YAGEO CC0402MRX5R5BB106")
+		(at 48.26 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a7ebd70a-6223-4f57-9dab-a3953af2e550")
+		(property "Reference" "C100"
+			(at 48.514 81.026 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0402MRX5R5BB106"
+			(at 53.34 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0402_1005Metric]"
+			(at 55.88 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402MRX5R5BB106_C105884.html?s_z=n_CC0402MRX5R5BB106"
+			(at 58.42 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 62.738 83.058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C105884"
+			(at 60.96 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 64.516 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 66.294 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "10uF"
+			(at 48.514 84.328 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "2"
+			(uuid "a8291655-1da1-4a06-a014-076469a117d6")
+		)
+		(pin "1"
+			(uuid "cbee8d2f-4182-4603-91ad-189036f1222b")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0402_1005Metric]Samsung Electro-Mechanics CL05A475KP5NRNC")
+		(at 39.37 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a99e907c-2a09-4a3c-a4aa-829f4294a914")
+		(property "Reference" "C133"
+			(at 39.878 80.772 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CL05A475KP5NRNC"
+			(at 44.45 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0402_1005Metric]"
+			(at 46.99 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A475KP5NRNC_C368809.html"
+			(at 49.53 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 4.7uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 53.848 83.058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C368809"
+			(at 52.07 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 55.626 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 57.404 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "4.7uF"
+			(at 39.878 84.582 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "2"
+			(uuid "6d78da2f-a8d1-4611-ac88-b0cacb21a4b8")
+		)
+		(pin "1"
+			(uuid "a0c2aa55-e34d-4c61-a32a-80584a65424c")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C133")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
 		(at 101.6 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13689,6 +18394,176 @@
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
 					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 71.12 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ab6d17b5-7f91-4f1f-af31-cbb7d81ba641")
+		(property "Reference" "C105"
+			(at 71.374 34.036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 76.2 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 78.74 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 81.28 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 85.852 34.798 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 83.82 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 87.884 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 71.374 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 89.916 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "870b0a92-6780-42f6-a109-86d839005b4c")
+		)
+		(pin "1"
+			(uuid "f9ec2365-0221-4803-bb98-e8ce83302ea7")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 93.98 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b1f91ad2-fe5a-4500-9bca-e18deafc896b")
+		(property "Reference" "#PWR088"
+			(at 93.98 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 93.98 58.166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 93.98 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f488027-820c-4a77-b0d4-534e4c67e876")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -13905,6 +18780,111 @@
 		)
 	)
 	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 116.84 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bae896f8-6201-4e79-acfd-ae1c13c45544")
+		(property "Reference" "C131"
+			(at 117.094 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 121.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 124.46 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 127 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 131.572 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 129.54 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 133.604 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 117.094 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 135.636 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f94eb095-02c0-47de-acae-f9eda9640a33")
+		)
+		(pin "1"
+			(uuid "944fe9f1-b3ca-49f0-ab1b-86a0926344fd")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C131")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]Samsung Electro-Mechanics CL03A105MQ3CSNH")
 		(at 191.77 156.21 90)
 		(unit 1)
@@ -14010,6 +18990,281 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 86.36 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c6e637cb-2936-409d-aed9-2b38f8d85cd3")
+		(property "Reference" "#PWR090"
+			(at 86.36 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 86.36 89.916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 86.36 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5864b897-8d73-437c-8cd6-ac9e079a77b5")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "#PWR090")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 63.5 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c7e55a77-c003-44de-90bd-4daf82971039")
+		(property "Reference" "C123"
+			(at 63.754 64.516 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 68.58 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 71.12 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 73.66 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 78.232 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 76.2 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 80.264 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 63.754 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 82.296 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "49832675-2904-4379-9b23-0fe279ba748e")
+		)
+		(pin "1"
+			(uuid "8468b769-8bda-4fd6-ab3a-ef14258b962b")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C123")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 78.74 50.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8d53f3e-5b0d-4a16-bb52-3ef5ea6b2099")
+		(property "Reference" "C116"
+			(at 78.994 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 83.82 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 86.36 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 88.9 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 93.472 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 91.44 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.504 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 78.994 52.578 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 97.536 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b6293499-6445-42af-926e-1e8ca8bde267")
+		)
+		(pin "1"
+			(uuid "0d4c8ae5-5cb1-47a8-bbb7-05e36396c573")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C116")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
 		(at 55.88 21.59 90)
 		(unit 1)
@@ -14109,6 +19364,111 @@
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
 					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 86.36 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "caee4f2c-bada-4c22-a323-2fa655773bc9")
+		(property "Reference" "C107"
+			(at 86.614 34.036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 91.44 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 93.98 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 96.52 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 101.092 34.798 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 99.06 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 103.124 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 86.614 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 105.156 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "dfde878e-aa05-4db4-b0d1-5b42afee381f")
+		)
+		(pin "1"
+			(uuid "a4748e32-48e3-4ba9-a2c7-90de922c86e8")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C107")
 					(unit 1)
 				)
 			)
@@ -15014,6 +20374,111 @@
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
 					(reference "C35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 71.12 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e1ba7ec6-3ad6-483c-85c5-2430cb2bdb71")
+		(property "Reference" "C137"
+			(at 71.374 81.026 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 76.2 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 78.74 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 81.28 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 85.852 81.788 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 83.82 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 87.884 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 71.374 84.328 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 89.916 82.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "60b0c4fd-e96b-4bed-8281-7eb6fdf61af3")
+		)
+		(pin "1"
+			(uuid "d557189c-7bea-43a0-8a9b-70428889030b")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C137")
 					(unit 1)
 				)
 			)
@@ -17826,6 +23291,281 @@
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
 					(reference "U1")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0402_1005Metric]Samsung Electro-Mechanics CL05A475KP5NRNC")
+		(at 39.37 50.8 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f9e2011a-ee0d-4e39-a43e-c54d84301581")
+		(property "Reference" "C111"
+			(at 39.878 49.022 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CL05A475KP5NRNC"
+			(at 44.45 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0402_1005Metric]"
+			(at 46.99 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL05A475KP5NRNC_C368809.html"
+			(at 49.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 4.7uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 53.848 51.308 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C368809"
+			(at 52.07 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 55.626 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 57.404 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "4.7uF"
+			(at 39.878 52.832 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "2"
+			(uuid "17d937c2-4567-4d71-bbe5-c6b0dbcfc320")
+		)
+		(pin "1"
+			(uuid "fd081598-a25b-4ab3-a5eb-aac609f6ebbc")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C111")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 116.84 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fc3d3acc-ed17-4cff-bf71-f094c533c6de")
+		(property "Reference" "#PWR089"
+			(at 116.84 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 116.84 73.406 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 116.84 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 116.84 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "db4b870d-7054-4619-b03b-35cf04b6afbc")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "#PWR089")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[CAP_SMD_0201_0603Metric]YAGEO CC0201KRX5R6BB104")
+		(at 78.74 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe7952ba-37da-4259-bdaf-d3c429e0e4a0")
+		(property "Reference" "C106"
+			(at 78.994 34.036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CC0201KRX5R6BB104"
+			(at 83.82 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[CAP_SMD_0201_0603Metric]"
+			(at 86.36 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL03A105MQ3CSNH_1uF-105-20-6-3V_C53067.html"
+			(at 88.9 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10V 100nF X5R ±10% 0201 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 93.472 34.798 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C190183"
+			(at 91.44 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 95.504 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "100nF"
+			(at 78.994 37.338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Package" "0201"
+			(at 97.536 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9d51d015-7776-4c01-8847-cca2f562aee2")
+		)
+		(pin "1"
+			(uuid "cb53baf9-0006-422a-b14e-e60be661e888")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/97d97b12-d924-4e04-8775-cfa0a0f27f6a"
+					(reference "C106")
+					(unit 1)
 				)
 			)
 		)

@@ -661,8 +661,16 @@
       "EEPROM"
     ],
     [
+      "4707b131-4128-40c7-bdf8-b765a134942b",
+      "ddr"
+    ],
+    [
       "d699a9f8-e4b6-41ca-8e95-ac75f365d4d0",
       "RTC"
+    ],
+    [
+      "e67ecd0a-3589-48cb-bdf6-594e489830bc",
+      "LTE"
     ]
   ],
   "text_variables": {}
