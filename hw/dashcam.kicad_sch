@@ -9447,6 +9447,165 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "pepy_sym_lib:[RES_SMD_0201_0603Metric]YAGEO RC0201FR-0733RL"
+			(pin_numbers
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 1.778 0)
+				(do_not_autoplace)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RC0201FR-0733RL"
+				(at 0.254 -18.288 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0201FR-0733RL_C295794.html"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 33Ω 0201 Chip Resistor - Surface Mount ROHS"
+				(at 1.524 -13.716 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C295794"
+				(at 0 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "YAGEO"
+				(at 0.762 -15.748 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Nvalue" "33R"
+				(at 0 -2.032 0)
+				(do_not_autoplace)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Package" "0201"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "1%"
+				(at 0 -20.066 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "[RES_SMD_0201_0603Metric]YAGEO RC0201FR-0733RL_1_1"
+				(rectangle
+					(start -1.778 0.762)
+					(end 1.778 -0.762)
+					(stroke
+						(width 0.15)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 0.762)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 0.762)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "CLK to PHY (25MHz) [MCU Domain Observation clock\noutput for test and debug purposes only]"
+		(exclude_from_sim no)
+		(at 163.83 44.704 0)
+		(effects
+			(font
+				(size 0.6 0.6)
+			)
+			(justify left)
+		)
+		(uuid "282e3be9-d77b-4143-8529-d297ed1b8dd9")
 	)
 	(no_connect
 		(at 558.8 -191.77)
@@ -9483,6 +9642,48 @@
 	(no_connect
 		(at 558.8 -194.31)
 		(uuid "f6cff285-33e7-4647-ae2c-5127080bce61")
+	)
+	(wire
+		(pts
+			(xy 143.51 44.45) (xy 147.32 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc31db68-12bd-449c-a840-cc9c3050537d")
+	)
+	(wire
+		(pts
+			(xy 138.43 44.45) (xy 137.16 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eae5be58-ab42-4046-9cf3-d88951466f71")
+	)
+	(global_label "MCU_OBSCLK0"
+		(shape output)
+		(at 147.32 44.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9a043185-bb50-49e7-a5ca-b6194da4f07b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 163.9123 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "pepy_sym_lib:[CPU]Texas Instruments AM6254ATCGHAALW")
@@ -14890,6 +15091,120 @@
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce"
 					(reference "U1")
 					(unit 9)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pepy_sym_lib:[RES_SMD_0201_0603Metric]YAGEO RC0201FR-0733RL")
+		(at 140.97 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "63a04423-b903-43c7-ac5e-13ebd975158f")
+		(property "Reference" "R1"
+			(at 140.9699 42.8396 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RC0201FR-0733RL"
+			(at 141.224 62.738 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "pepy_sym_lib:[RES_SMD_0201_0603Metric]"
+			(at 140.97 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0201FR-0733RL_C295794.html"
+			(at 140.97 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "50mW Thick Film Resistors 25V ±1% ±200ppm/℃ 33Ω 0201 Chip Resistor - Surface Mount ROHS"
+			(at 142.494 58.166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C295794"
+			(at 140.97 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 141.732 60.198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Nvalue" "33R"
+			(at 140.97 46.1301 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0201"
+			(at 140.97 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 140.97 64.516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7075eaf-7f44-4f5c-9ebe-aeb5abecdf61")
+		)
+		(pin "2"
+			(uuid "639a0720-467d-43eb-a07c-f3d462e2b3ea")
+		)
+		(instances
+			(project "dashcam"
+				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce"
+					(reference "R1")
+					(unit 1)
 				)
 			)
 		)
@@ -23018,7 +23333,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3aaa345-5c66-4406-a132-7d75e63a0a71")
-		(property "Reference" "X2"
+		(property "Reference" "X1"
 			(at 167.64 140.97 0)
 			(effects
 				(font
@@ -23106,7 +23421,7 @@
 		(instances
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce"
-					(reference "X2")
+					(reference "X1")
 					(unit 1)
 				)
 			)
@@ -23114,7 +23429,7 @@
 	)
 	(symbol
 		(lib_id "pepy_sym_lib:[CPU]Texas Instruments AM6254ATCGHAALW")
-		(at 651.51 -236.22 0)
+		(at 111.76 76.2 0)
 		(unit 18)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23123,7 +23438,7 @@
 		(fields_autoplaced yes)
 		(uuid "e5646661-6eab-4ae8-b9a9-41f028d1778e")
 		(property "Reference" "U1"
-			(at 650.875 -290.83 0)
+			(at 111.125 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23131,7 +23446,7 @@
 			)
 		)
 		(property "Value" "AM6254ATCGHAALW"
-			(at 650.875 -288.29 0)
+			(at 111.125 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23139,7 +23454,7 @@
 			)
 		)
 		(property "Footprint" "pepy_sym_lib:[CPU]Texas Instruments AM6254ATCGHAALW"
-			(at 651.256 -229.362 0)
+			(at 111.506 83.058 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23148,7 +23463,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/am625.pdf?ts=1740314582358&ref_url=https%253A%252F%252Fwww.ti.com%252Fmicrocontrollers-mcus-processors%252Farm-based-processors%252Fproducts.html"
-			(at 651.51 -224.536 0)
+			(at 111.76 87.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23157,7 +23472,7 @@
 			)
 		)
 		(property "Description" "1400MHz FCCSP(ALW)-425 Microcontrollers (MCU/MPU/SOC) ROHS"
-			(at 651.256 -222.25 0)
+			(at 111.506 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23166,7 +23481,7 @@
 			)
 		)
 		(property "LCSC Part" "C5218241"
-			(at 651.256 -226.822 0)
+			(at 111.506 85.598 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23175,7 +23490,7 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
-			(at 651.002 -219.964 0)
+			(at 111.252 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)

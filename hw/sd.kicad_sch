@@ -16371,7 +16371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02a0d0a7-d839-4f5d-bf09-7bcfc761eaea")
-		(property "Reference" "R106"
+		(property "Reference" "R146"
 			(at 195.58 106.6799 90)
 			(effects
 				(font
@@ -16461,7 +16461,7 @@
 		(instances
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R106")
+					(reference "R146")
 					(unit 1)
 				)
 			)
@@ -16477,7 +16477,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0572b2ce-8ac0-4ab0-9d4b-db7287b827f7")
-		(property "Reference" "R97"
+		(property "Reference" "R132"
 			(at 115.57 44.4499 90)
 			(effects
 				(font
@@ -16567,7 +16567,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R97")
+					(reference "R132")
 					(unit 1)
 				)
 			)
@@ -16582,7 +16582,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "07b7ad48-252a-4bcf-9aa0-777280f3c871")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR099"
 			(at 71.12 219.71 0)
 			(effects
 				(font
@@ -16632,7 +16632,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "#PWR055")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -16648,7 +16648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b175e2e-14af-4a2e-b663-93218a6ccbb4")
-		(property "Reference" "D8"
+		(property "Reference" "D11"
 			(at 75.945 248.92 0)
 			(effects
 				(font
@@ -16709,7 +16709,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D8")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -16725,7 +16725,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1979e286-a478-43a5-82be-ed6a83ed2623")
-		(property "Reference" "R103"
+		(property "Reference" "R142"
 			(at 176.53 44.4499 90)
 			(effects
 				(font
@@ -16815,7 +16815,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R103")
+					(reference "R142")
 					(unit 1)
 				)
 			)
@@ -16919,7 +16919,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1fca5a9d-5d31-4761-b320-28799a63ffda")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR0103"
 			(at 243.84 247.65 0)
 			(effects
 				(font
@@ -16969,7 +16969,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "#PWR057")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -16985,7 +16985,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "251a0697-9ce1-40a9-88b9-5c554c0d3b93")
-		(property "Reference" "R107"
+		(property "Reference" "R148"
 			(at 210.82 126.9999 90)
 			(effects
 				(font
@@ -17075,7 +17075,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R107")
+					(reference "R148")
 					(unit 1)
 				)
 			)
@@ -17091,7 +17091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2625a0d1-4bb9-48f9-b3ee-9a12928b1587")
-		(property "Reference" "R104"
+		(property "Reference" "R144"
 			(at 187.96 44.4499 90)
 			(effects
 				(font
@@ -17181,7 +17181,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R104")
+					(reference "R144")
 					(unit 1)
 				)
 			)
@@ -17196,7 +17196,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29d02a7b-13e7-400d-adb9-13da45e32360")
-		(property "Reference" "C59"
+		(property "Reference" "C153"
 			(at 228.854 235.966 90)
 			(effects
 				(font
@@ -17286,7 +17286,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "C59")
+					(reference "C153")
 					(unit 1)
 				)
 			)
@@ -17301,7 +17301,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2baa5510-4b51-4ba8-b8d9-647911a5d016")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR0105"
 			(at 261.62 243.84 0)
 			(effects
 				(font
@@ -17351,7 +17351,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "#PWR058")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -17367,7 +17367,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2def0ed2-30b1-4efc-a6d2-e5c43d6815f2")
-		(property "Reference" "R75"
+		(property "Reference" "R137"
 			(at 148.59 195.5799 90)
 			(effects
 				(font
@@ -17457,7 +17457,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R75")
+					(reference "R137")
 					(unit 1)
 				)
 			)
@@ -17473,7 +17473,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e5f5dc2-f83d-43ce-84f8-e1694029c9ed")
-		(property "Reference" "D18"
+		(property "Reference" "D17"
 			(at 181.355 106.68 0)
 			(effects
 				(font
@@ -17534,7 +17534,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D18")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -17550,7 +17550,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "337b1913-a358-4100-91b9-4e401c8f3f77")
-		(property "Reference" "R79"
+		(property "Reference" "R145"
 			(at 191.77 195.5799 90)
 			(effects
 				(font
@@ -17640,7 +17640,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R79")
+					(reference "R145")
 					(unit 1)
 				)
 			)
@@ -17656,7 +17656,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34c41372-b2a6-4c8d-8655-6e918600a2aa")
-		(property "Reference" "R100"
+		(property "Reference" "R136"
 			(at 146.05 44.4499 90)
 			(effects
 				(font
@@ -17746,7 +17746,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R100")
+					(reference "R136")
 					(unit 1)
 				)
 			)
@@ -17762,7 +17762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "364cd616-3caa-4626-b542-418f7395a72d")
-		(property "Reference" "R81"
+		(property "Reference" "R149"
 			(at 213.36 195.5799 90)
 			(effects
 				(font
@@ -17852,7 +17852,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R81")
+					(reference "R149")
 					(unit 1)
 				)
 			)
@@ -17868,7 +17868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3985d99e-dccf-47a1-bf70-3a510888839c")
-		(property "Reference" "R98"
+		(property "Reference" "R133"
 			(at 125.73 44.4499 90)
 			(effects
 				(font
@@ -17958,7 +17958,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R98")
+					(reference "R133")
 					(unit 1)
 				)
 			)
@@ -17973,7 +17973,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3a1332cf-be1f-4a03-997d-6c13e69a42c4")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR0101"
 			(at 139.7 109.22 0)
 			(effects
 				(font
@@ -18023,7 +18023,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "#PWR072")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -18038,7 +18038,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3ed7d5f5-9a03-4c1f-897a-f88872ec72e6")
-		(property "Reference" "D11"
+		(property "Reference" "D14"
 			(at 162.052 238.252 90)
 			(effects
 				(font
@@ -18101,7 +18101,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D11")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -18117,7 +18117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "409b958e-d57f-4c4e-8dca-6b90e34e07e7")
-		(property "Reference" "C56"
+		(property "Reference" "C150"
 			(at 54.61 210.8199 90)
 			(effects
 				(font
@@ -18207,7 +18207,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "C56")
+					(reference "C150")
 					(unit 1)
 				)
 			)
@@ -18223,7 +18223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42d6ad68-16a3-487a-9a66-72ee6f554d46")
-		(property "Reference" "R74"
+		(property "Reference" "R130"
 			(at 88.9 238.7599 90)
 			(effects
 				(font
@@ -18313,7 +18313,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R74")
+					(reference "R130")
 					(unit 1)
 				)
 			)
@@ -18328,7 +18328,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44abee23-dca7-48f1-be47-6a05d8cf7c70")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR0106"
 			(at 266.7 113.03 0)
 			(effects
 				(font
@@ -18378,7 +18378,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "#PWR070")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -18394,7 +18394,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "479fb5cf-c0d8-4b49-bcd8-42c76e64e22f")
-		(property "Reference" "R101"
+		(property "Reference" "R138"
 			(at 156.21 44.4499 90)
 			(effects
 				(font
@@ -18484,7 +18484,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R101")
+					(reference "R138")
 					(unit 1)
 				)
 			)
@@ -18499,7 +18499,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4bd38d6a-869f-4dff-99e1-0a6c83ae0cbc")
-		(property "Reference" "C58"
+		(property "Reference" "C152"
 			(at 221.234 235.966 90)
 			(effects
 				(font
@@ -18589,7 +18589,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "C58")
+					(reference "C152")
 					(unit 1)
 				)
 			)
@@ -18605,7 +18605,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c352422-b5a2-4429-b9f0-a39c6fc99ef3")
-		(property "Reference" "R78"
+		(property "Reference" "R141"
 			(at 170.18 195.5799 90)
 			(effects
 				(font
@@ -18695,7 +18695,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R78")
+					(reference "R141")
 					(unit 1)
 				)
 			)
@@ -18711,7 +18711,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56b0fb1a-db5e-42d7-aa61-294888ebda4c")
-		(property "Reference" "R108"
+		(property "Reference" "R135"
 			(at 142.24 96.5199 90)
 			(effects
 				(font
@@ -18801,7 +18801,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R108")
+					(reference "R135")
 					(unit 1)
 				)
 			)
@@ -18816,7 +18816,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6543ce62-670c-4565-b857-2aba572a6a8a")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR098"
 			(at 50.8 222.25 0)
 			(effects
 				(font
@@ -18866,7 +18866,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "#PWR054")
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -18881,7 +18881,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6c6fdbe7-a313-4d9e-93a8-d0866abd67f8")
-		(property "Reference" "D13"
+		(property "Reference" "D19"
 			(at 183.642 238.252 90)
 			(effects
 				(font
@@ -18944,7 +18944,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D13")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -18959,7 +18959,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6f0e374a-2afd-458b-9b6e-43512e7f6c14")
-		(property "Reference" "R82"
+		(property "Reference" "R127"
 			(at 69.85 119.126 0)
 			(effects
 				(font
@@ -19047,7 +19047,7 @@
 		(instances
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R82")
+					(reference "R127")
 					(unit 1)
 				)
 			)
@@ -19062,7 +19062,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7514f977-84a5-49c1-be31-eeb69419cca2")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR0102"
 			(at 208.28 139.7 0)
 			(effects
 				(font
@@ -19112,7 +19112,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "#PWR071")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -19128,7 +19128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a833dcb-0f72-400c-980c-f717de128fbe")
-		(property "Reference" "D19"
+		(property "Reference" "D18"
 			(at 181.355 118.11 0)
 			(effects
 				(font
@@ -19189,7 +19189,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D19")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -19204,7 +19204,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7ecd0437-94e4-434a-b4db-82027915fc29")
-		(property "Reference" "R83"
+		(property "Reference" "R129"
 			(at 80.01 93.98 0)
 			(effects
 				(font
@@ -19292,7 +19292,7 @@
 		(instances
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R83")
+					(reference "R129")
 					(unit 1)
 				)
 			)
@@ -19307,7 +19307,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "840b87f3-d1e7-400c-a62c-759c8d0ac050")
-		(property "Reference" "D14"
+		(property "Reference" "D20"
 			(at 194.818 238.252 90)
 			(effects
 				(font
@@ -19370,7 +19370,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D14")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -19386,7 +19386,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93075190-3340-4e8a-a2ee-bda4019584a8")
-		(property "Reference" "D7"
+		(property "Reference" "D10"
 			(at 75.945 238.76 0)
 			(effects
 				(font
@@ -19447,7 +19447,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D7")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -19463,7 +19463,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97ebca09-bf13-418f-904f-8caafab7ea9a")
-		(property "Reference" "U10"
+		(property "Reference" "U8"
 			(at 240.03 59.69 0)
 			(effects
 				(font
@@ -19977,7 +19977,7 @@
 		(instances
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "U10")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -19992,7 +19992,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9a0d4731-8b34-4ebe-a06e-b328e44ad76f")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR0107"
 			(at 269.24 210.82 0)
 			(effects
 				(font
@@ -20042,7 +20042,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "#PWR059")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -20058,7 +20058,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4bb8fb6-64c5-428c-bc13-6cb4af5bb836")
-		(property "Reference" "R80"
+		(property "Reference" "R147"
 			(at 203.2 195.5799 90)
 			(effects
 				(font
@@ -20148,7 +20148,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R80")
+					(reference "R147")
 					(unit 1)
 				)
 			)
@@ -20163,7 +20163,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a727878b-4661-4ee0-9d3b-5d5ca50281d1")
-		(property "Reference" "D15"
+		(property "Reference" "D21"
 			(at 205.486 238.252 90)
 			(effects
 				(font
@@ -20226,7 +20226,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D15")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -20241,7 +20241,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a7c2f0a5-3500-40a6-aed0-3ce00f25feaf")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR0104"
 			(at 246.38 123.19 0)
 			(effects
 				(font
@@ -20291,7 +20291,7 @@
 		(instances
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "#PWR069")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -20419,7 +20419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2cc2d2c-1437-495b-b78f-08bec271372b")
-		(property "Reference" "U10"
+		(property "Reference" "U8"
 			(at 386.08 17.78 0)
 			(effects
 				(font
@@ -20933,7 +20933,7 @@
 		(instances
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "U10")
+					(reference "U8")
 					(unit 2)
 				)
 			)
@@ -20948,7 +20948,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b452788e-3422-4532-abff-e1b968a10a9d")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR0100"
 			(at 107.95 222.25 0)
 			(effects
 				(font
@@ -20998,7 +20998,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "#PWR056")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -21014,7 +21014,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6dcce39-138a-4ce5-bc01-e8995ce683f4")
-		(property "Reference" "R76"
+		(property "Reference" "R139"
 			(at 160.02 195.5799 90)
 			(effects
 				(font
@@ -21104,7 +21104,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R76")
+					(reference "R139")
 					(unit 1)
 				)
 			)
@@ -21120,7 +21120,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b783395c-fa28-4f85-b656-8cb5d1c130bc")
-		(property "Reference" "C57"
+		(property "Reference" "C151"
 			(at 111.76 210.8199 90)
 			(effects
 				(font
@@ -21210,7 +21210,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "C57")
+					(reference "C151")
 					(unit 1)
 				)
 			)
@@ -21225,7 +21225,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c6b4d3fa-a1da-4701-b12a-5e6a2e48275b")
-		(property "Reference" "D9"
+		(property "Reference" "D12"
 			(at 141.478 238.252 90)
 			(effects
 				(font
@@ -21288,7 +21288,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D9")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -21303,7 +21303,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d4e48a0d-a27d-4ae0-b7d6-443481d2340e")
-		(property "Reference" "D10"
+		(property "Reference" "D13"
 			(at 151.638 238.252 90)
 			(effects
 				(font
@@ -21366,7 +21366,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D10")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -21382,7 +21382,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d57b6a9b-6d49-4b66-ad37-bdbd9bea0b4f")
-		(property "Reference" "R99"
+		(property "Reference" "R134"
 			(at 135.89 44.4499 90)
 			(effects
 				(font
@@ -21472,7 +21472,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R99")
+					(reference "R134")
 					(unit 1)
 				)
 			)
@@ -22840,7 +22840,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d85434c9-1899-46de-919c-389ec21c54cd")
-		(property "Reference" "R77"
+		(property "Reference" "R143"
 			(at 181.61 195.5799 90)
 			(effects
 				(font
@@ -22930,7 +22930,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R77")
+					(reference "R143")
 					(unit 1)
 				)
 			)
@@ -22945,7 +22945,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e0bcee02-9b05-44da-8ef7-07e9c781b863")
-		(property "Reference" "C60"
+		(property "Reference" "C154"
 			(at 236.474 235.966 90)
 			(effects
 				(font
@@ -23035,7 +23035,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "C60")
+					(reference "C154")
 					(unit 1)
 				)
 			)
@@ -23051,7 +23051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2b12928-63f5-4652-899d-0e3087cad4bf")
-		(property "Reference" "TP13"
+		(property "Reference" "TP14"
 			(at 202.438 118.11 90)
 			(effects
 				(font
@@ -23100,7 +23100,7 @@
 		(instances
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "TP13")
+					(reference "TP14")
 					(unit 1)
 				)
 			)
@@ -23116,7 +23116,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4014ba0-c637-4a11-b32e-ec643316c141")
-		(property "Reference" "R105"
+		(property "Reference" "R128"
 			(at 77.47 57.15 0)
 			(effects
 				(font
@@ -23204,7 +23204,7 @@
 		(instances
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R105")
+					(reference "R128")
 					(unit 1)
 				)
 			)
@@ -23219,7 +23219,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e68a58f4-8f21-44aa-9287-231e5e48aea3")
-		(property "Reference" "D12"
+		(property "Reference" "D15"
 			(at 173.228 238.252 90)
 			(effects
 				(font
@@ -23282,7 +23282,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D12")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -23298,7 +23298,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e74f1de8-c0d4-4c0c-8454-3aefac024b36")
-		(property "Reference" "R96"
+		(property "Reference" "R131"
 			(at 105.41 44.4499 90)
 			(effects
 				(font
@@ -23388,7 +23388,7 @@
 		(instances
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R96")
+					(reference "R131")
 					(unit 1)
 				)
 			)
@@ -23404,7 +23404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5eb844c-b13f-4665-a5de-479e86a02150")
-		(property "Reference" "D17"
+		(property "Reference" "D16"
 			(at 181.355 95.25 0)
 			(effects
 				(font
@@ -23465,7 +23465,7 @@
 		(instances
 			(project ""
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "D17")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -23481,7 +23481,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb3d555f-8e50-4b5c-83a5-2a4a3db692f0")
-		(property "Reference" "R102"
+		(property "Reference" "R140"
 			(at 166.37 44.4499 90)
 			(effects
 				(font
@@ -23571,7 +23571,7 @@
 		(instances
 			(project "dashcam"
 				(path "/30d6913c-7aa4-4f56-9882-2ba08f7e2cce/b30f1eb0-bf7c-4f68-9abd-a86df79f7469"
-					(reference "R102")
+					(reference "R140")
 					(unit 1)
 				)
 			)
